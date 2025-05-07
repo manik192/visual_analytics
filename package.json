@@ -1,0 +1,12 @@
+{
+  "name": "my-environmental-dashboard",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "observable preview",
+    "build": "observable build",
+    "deploy": "observable deploy"
+  },
+  "devDependencies": {
+    "@observablehq/framework": "^1.13.3"
+  }
+}

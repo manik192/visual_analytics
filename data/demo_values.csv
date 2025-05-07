@@ -1,0 +1,910 @@
+Territory,Topic,Category,Location,Impact,Reference,Units,Value
+Afghanistan,GHG Emissions,N/A for GHG,N/A for GHG,N/A for GHG,GHG Emissions,$/tCO2e,236.00
+Afghanistan,Water Consumption,N/A for WC,N/A for WC,Malnutrition,Water Consumption_N/A for WC_N/A for WC_Malnutrition,USD/m3,0.49
+Afghanistan,Water Consumption,N/A for WC,N/A for WC,Water-borne disease,Water Consumption_N/A for WC_N/A for WC_Water-borne disease,USD/m3,0.06
+Afghanistan,Water Consumption,N/A for WC,N/A for WC,Resource cost,Water Consumption_N/A for WC_N/A for WC_Resource cost,USD/m3,0.32
+Afghanistan,Water Consumption,N/A for WC,N/A for WC,Ecosystem services,Water Consumption_N/A for WC_N/A for WC_Ecosystem services,USD/m3,0.28
+Afghanistan,Waste,Hazardous,Landfill,Leachate,Waste_Hazardous_Landfill_Leachate,$/kg,18.19
+Afghanistan,Waste,Hazardous,Landfill,Waste GHGs,Waste_Hazardous_Landfill_Waste GHGs,$/kg,179.15
+Afghanistan,Waste,Hazardous,Landfill,Disamenity,Waste_Hazardous_Landfill_Disamenity,$/kg,45.96
+Afghanistan,Waste,Non-Hazardous,Landfill,Leachate,Waste_Non-Hazardous_Landfill_Leachate,$/kg,0.30
+Afghanistan,Waste,Non-Hazardous,Landfill,Waste GHGs,Waste_Non-Hazardous_Landfill_Waste GHGs,$/kg,179.15
+Afghanistan,Waste,Non-Hazardous,Landfill,Disamenity,Waste_Non-Hazardous_Landfill_Disamenity,$/kg,45.96
+Afghanistan,Waste,Hazardous,Incineration,Waste GHGs,Waste_Hazardous_Incineration_Waste GHGs,$/kg,386.36
+Afghanistan,Waste,Hazardous,Incineration,Disamenity,Waste_Hazardous_Incineration_Disamenity,$/kg,3.01
+Afghanistan,Waste,Hazardous,Incineration,Waste Air pollution,Waste_Hazardous_Incineration_Waste Air pollution,$/kg,18.28
+Afghanistan,Waste,Hazardous,Incineration,Heavy metals and dioxins,Waste_Hazardous_Incineration_Heavy metals and dioxins,$/kg,4.93
+Afghanistan,Waste,Non-Hazardous,Incineration,Waste GHGs,Waste_Non-Hazardous_Incineration_Waste GHGs,$/kg,124.02
+Afghanistan,Waste,Non-Hazardous,Incineration,Disamenity,Waste_Non-Hazardous_Incineration_Disamenity,$/kg,3.01
+Afghanistan,Waste,Non-Hazardous,Incineration,Waste Air pollution,Waste_Non-Hazardous_Incineration_Waste Air pollution,$/kg,18.28
+Afghanistan,Waste,Non-Hazardous,Incineration,Heavy metals and dioxins,Waste_Non-Hazardous_Incineration_Heavy metals and dioxins,$/kg,4.93
+Afghanistan,Waste,Hazardous,Unspecified,Leachate,Waste_Hazardous_Unspecified_Leachate,$/kg,0.00
+Afghanistan,Waste,Hazardous,Unspecified,Waste Air pollution,Waste_Hazardous_Unspecified_Waste Air pollution,$/kg,18.28
+Afghanistan,Waste,Hazardous,Unspecified,Heavy metals and dioxins,Waste_Hazardous_Unspecified_Heavy metals and dioxins,$/kg,4.93
+Afghanistan,Waste,Hazardous,Unspecified,Disamenity,Waste_Hazardous_Unspecified_Disamenity,$/kg,3.01
+Afghanistan,Waste,Hazardous,Unspecified,Waste GHGs,Waste_Hazardous_Unspecified_Waste GHGs,$/kg,386.36
+Afghanistan,Waste,Non-Hazardous,Unspecified,Leachate,Waste_Non-Hazardous_Unspecified_Leachate,$/kg,0.30
+Afghanistan,Waste,Non-Hazardous,Unspecified,Waste Air pollution,Waste_Non-Hazardous_Unspecified_Waste Air pollution,$/kg,0.00
+Afghanistan,Waste,Non-Hazardous,Unspecified,Heavy metals and dioxins,Waste_Non-Hazardous_Unspecified_Heavy metals and dioxins,$/kg,0.00
+Afghanistan,Waste,Non-Hazardous,Unspecified,Disamenity,Waste_Non-Hazardous_Unspecified_Disamenity,$/kg,45.96
+Afghanistan,Waste,Non-Hazardous,Unspecified,Waste GHGs,Waste_Non-Hazardous_Unspecified_Waste GHGs,$/kg,179.15
+Afghanistan,Air Pollution,PM2.5,Urban,Primary Health,Air Pollution_PM2.5_Urban_Primary Health,$/tonne,"40,495.28"
+Afghanistan,Air Pollution,PM2.5,Peri-Urban,Primary Health,Air Pollution_PM2.5_Peri-Urban_Primary Health,$/tonne,"34,468.58"
+Afghanistan,Air Pollution,PM2.5,Rural,Primary Health,Air Pollution_PM2.5_Rural_Primary Health,$/tonne,"19,386.52"
+Afghanistan,Air Pollution,PM2.5,Transport,Primary Health,Air Pollution_PM2.5_Transport_Primary Health,$/tonne,"31,346.36"
+Afghanistan,Air Pollution,PM2.5,N/A for PM2.5,Visibility,Air Pollution_PM2.5_N/A for PM2.5_Visibility,$/tonne,4.78
+Afghanistan,Air Pollution,SOx,Urban,Primary Health,Air Pollution_SOx_Urban_Primary Health,$/tonne,"13,398.15"
+Afghanistan,Air Pollution,SOx,Peri-Urban,Primary Health,Air Pollution_SOx_Peri-Urban_Primary Health,$/tonne,"13,345.45"
+Afghanistan,Air Pollution,SOx,Rural,Primary Health,Air Pollution_SOx_Rural_Primary Health,$/tonne,"6,694.38"
+Afghanistan,Air Pollution,SOx,Transport,Primary Health,Air Pollution_SOx_Transport_Primary Health,$/tonne,"10,893.71"
+Afghanistan,Air Pollution,SOx,N/A for SOx,Visibility,Air Pollution_SOx_N/A for SOx_Visibility,$/tonne,31.86
+Afghanistan,Air Pollution,NH3,Urban,Primary Health,Air Pollution_NH3_Urban_Primary Health,$/tonne,"12,148.59"
+Afghanistan,Air Pollution,NH3,Peri-Urban,Primary Health,Air Pollution_NH3_Peri-Urban_Primary Health,$/tonne,"10,340.57"
+Afghanistan,Air Pollution,NH3,Rural,Primary Health,Air Pollution_NH3_Rural_Primary Health,$/tonne,"5,815.95"
+Afghanistan,Air Pollution,NH3,Transport,Primary Health,Air Pollution_NH3_Transport_Primary Health,$/tonne,"9,403.91"
+Afghanistan,Air Pollution,NH3,N/A for NH3,Visibility,Air Pollution_NH3_N/A for NH3_Visibility,$/tonne,6.06
+Afghanistan,Air Pollution,PM10,Urban,Primary Health,Air Pollution_PM10_Urban_Primary Health,$/tonne,260.51
+Afghanistan,Air Pollution,PM10,Peri-Urban,Primary Health,Air Pollution_PM10_Peri-Urban_Primary Health,$/tonne,238.92
+Afghanistan,Air Pollution,PM10,Rural,Primary Health,Air Pollution_PM10_Rural_Primary Health,$/tonne,120.84
+Afghanistan,Air Pollution,PM10,Transport,Primary Health,Air Pollution_PM10_Transport_Primary Health,$/tonne,198.96
+Afghanistan,Air Pollution,PM10,N/A for PM10,Visibility,Air Pollution_PM10_N/A for PM10_Visibility,$/tonne,16.11
+Afghanistan,Air Pollution,NOx,Urban,Primary Health,Air Pollution_NOx_Urban_Primary Health,$/tonne,"4,138.25"
+Afghanistan,Air Pollution,NOx,Peri-Urban,Primary Health,Air Pollution_NOx_Peri-Urban_Primary Health,$/tonne,"3,992.62"
+Afghanistan,Air Pollution,NOx,Rural,Primary Health,Air Pollution_NOx_Rural_Primary Health,$/tonne,"2,211.82"
+Afghanistan,Air Pollution,NOx,Transport,Primary Health,Air Pollution_NOx_Transport_Primary Health,$/tonne,"3,141.74"
+Afghanistan,Air Pollution,NOx,N/A for NOx,Agriculture,Air Pollution_NOx_N/A for NOx_Agriculture,$/tonne,1.26
+Afghanistan,Air Pollution,NOx,N/A for NOx,Visibility,Air Pollution_NOx_N/A for NOx_Visibility,$/tonne,2.04
+Afghanistan,Air Pollution,VOC,N/A for VOC,Secondary Health,Air Pollution_VOC_N/A for VOC_Secondary Health,$/tonne,150.96
+Afghanistan,Air Pollution,VOC,N/A for VOC,Visibility,Air Pollution_VOC_N/A for VOC_Visibility,$/tonne,1.98
+Afghanistan,Air Pollution,VOC,N/A for VOC,Agriculture,Air Pollution_VOC_N/A for VOC_Agriculture,$/tonne,0.65
+Afghanistan,Land Use,Wheat - conventional,N/A for LULC,Lost Ecosystem Services,Land Use_Wheat - conventional_N/A for LULC_Lost Ecosystem Services,$/ha,216.64
+Afghanistan,Land Use,"Vegetables, fruit, nuts - conventional",N/A for LULC,Lost Ecosystem Services,"Land Use_Vegetables, fruit, nuts - conventional_N/A for LULC_Lost Ecosystem Services",$/ha,248.52
+Afghanistan,Land Use,"Cereals, grains - conventional",N/A for LULC,Lost Ecosystem Services,"Land Use_Cereals, grains - conventional_N/A for LULC_Lost Ecosystem Services",$/ha,216.64
+Afghanistan,Land Use,Oilseeds - conventional,N/A for LULC,Lost Ecosystem Services,Land Use_Oilseeds - conventional_N/A for LULC_Lost Ecosystem Services,$/ha,216.64
+Afghanistan,Land Use,"Sugarcane, sugarbeet - conventional",N/A for LULC,Lost Ecosystem Services,"Land Use_Sugarcane, sugarbeet - conventional_N/A for LULC_Lost Ecosystem Services",$/ha,216.64
+Afghanistan,Land Use,Plant-based fibers - conventional,N/A for LULC,Lost Ecosystem Services,Land Use_Plant-based fibers - conventional_N/A for LULC_Lost Ecosystem Services,$/ha,216.64
+Afghanistan,Land Use,Other crops - conventional,N/A for LULC,Lost Ecosystem Services,Land Use_Other crops - conventional_N/A for LULC_Lost Ecosystem Services,$/ha,216.64
+Afghanistan,Land Use,Other crops - organic,N/A for LULC,Lost Ecosystem Services,Land Use_Other crops - organic_N/A for LULC_Lost Ecosystem Services,$/ha,200.56
+Afghanistan,Land Use,Other crops - sustainable,N/A for LULC,Lost Ecosystem Services,Land Use_Other crops - sustainable_N/A for LULC_Lost Ecosystem Services,$/ha,187.30
+Afghanistan,Land Use,"Bovine, sheep, goats, horses - conventional",N/A for LULC,Lost Ecosystem Services,"Land Use_Bovine, sheep, goats, horses - conventional_N/A for LULC_Lost Ecosystem Services",$/ha,244.66
+Afghanistan,Land Use,"Bovine, sheep, goats, horses - organic",N/A for LULC,Lost Ecosystem Services,"Land Use_Bovine, sheep, goats, horses - organic_N/A for LULC_Lost Ecosystem Services",$/ha,235.64
+Afghanistan,Land Use,"Bovine, sheep, goats, horses - sustainable",N/A for LULC,Lost Ecosystem Services,"Land Use_Bovine, sheep, goats, horses - sustainable_N/A for LULC_Lost Ecosystem Services",$/ha,232.96
+Afghanistan,Land Use,Cashmere - conventional,N/A for LULC,Lost Ecosystem Services,Land Use_Cashmere - conventional_N/A for LULC_Lost Ecosystem Services,$/ha,253.69
+Afghanistan,Land Use,Cashmere - organic,N/A for LULC,Lost Ecosystem Services,Land Use_Cashmere - organic_N/A for LULC_Lost Ecosystem Services,$/ha,235.64
+Afghanistan,Land Use,Cashmere - sustainable,N/A for LULC,Lost Ecosystem Services,Land Use_Cashmere - sustainable_N/A for LULC_Lost Ecosystem Services,$/ha,232.96
+Afghanistan,Land Use,Forestry,N/A for LULC,Lost Ecosystem Services,Land Use_Forestry_N/A for LULC_Lost Ecosystem Services,$/ha,24.84
+Afghanistan,Land Use,Paddy rice,N/A for LULC,Lost Ecosystem Services,Land Use_Paddy rice_N/A for LULC_Lost Ecosystem Services,$/ha,189.25
+Afghanistan,Land Use,Paved,N/A for LULC,Lost Ecosystem Services,Land Use_Paved_N/A for LULC_Lost Ecosystem Services,$/ha,312.21
+Afghanistan,Water Pollution,Phosphorus,N/A for this Category,Eutrophication,Water Pollution_Phosphorus_N/A for this Category_Eutrophication,$/kg,96.62
+Afghanistan,Water Pollution,Nitrogen,N/A for this Category,Eutrophication,Water Pollution_Nitrogen_N/A for this Category_Eutrophication,$/kg,0.00
+Afghanistan,Water Pollution,Ag(I),Freshwaster,Health,Water Pollution_Ag(I)_Freshwaster_Health,$/kg,41.61
+Afghanistan,Water Pollution,Ag(I),Seawater,Health,Water Pollution_Ag(I)_Seawater_Health,$/kg,0.84
+Afghanistan,Water Pollution,Ag(I),Unspecified,Health,Water Pollution_Ag(I)_Unspecified_Health,$/kg,41.61
+Afghanistan,Water Pollution,As(III),Freshwaster,Health,Water Pollution_As(III)_Freshwaster_Health,$/kg,"2,018.01"
+Afghanistan,Water Pollution,As(III),Seawater,Health,Water Pollution_As(III)_Seawater_Health,$/kg,169.19
+Afghanistan,Water Pollution,As(III),Unspecified,Health,Water Pollution_As(III)_Unspecified_Health,$/kg,"2,018.01"
+Afghanistan,Water Pollution,As(V),Freshwaster,Health,Water Pollution_As(V)_Freshwaster_Health,$/kg,"2,018.01"
+Afghanistan,Water Pollution,As(V),Seawater,Health,Water Pollution_As(V)_Seawater_Health,$/kg,169.19
+Afghanistan,Water Pollution,As(V),Unspecified,Health,Water Pollution_As(V)_Unspecified_Health,$/kg,"2,018.01"
+Afghanistan,Water Pollution,Ba(II),Freshwaster,Health,Water Pollution_Ba(II)_Freshwaster_Health,$/kg,64.04
+Afghanistan,Water Pollution,Ba(II),Seawater,Health,Water Pollution_Ba(II)_Seawater_Health,$/kg,12.94
+Afghanistan,Water Pollution,Ba(II),Unspecified,Health,Water Pollution_Ba(II)_Unspecified_Health,$/kg,64.04
+Afghanistan,Water Pollution,Be(II),Freshwaster,Health,Water Pollution_Be(II)_Freshwaster_Health,$/kg,0.03
+Afghanistan,Water Pollution,Be(II),Seawater,Health,Water Pollution_Be(II)_Seawater_Health,$/kg,0.00
+Afghanistan,Water Pollution,Be(II),Unspecified,Health,Water Pollution_Be(II)_Unspecified_Health,$/kg,0.03
+Afghanistan,Water Pollution,Cd(II),Freshwaster,Health,Water Pollution_Cd(II)_Freshwaster_Health,$/kg,435.91
+Afghanistan,Water Pollution,Cd(II),Seawater,Health,Water Pollution_Cd(II)_Seawater_Health,$/kg,46.38
+Afghanistan,Water Pollution,Cd(II),Unspecified,Health,Water Pollution_Cd(II)_Unspecified_Health,$/kg,435.91
+Afghanistan,Water Pollution,Co(II),Freshwaster,Health,Water Pollution_Co(II)_Freshwaster_Health,$/kg,0.00
+Afghanistan,Water Pollution,Co(II),Seawater,Health,Water Pollution_Co(II)_Seawater_Health,$/kg,0.00
+Afghanistan,Water Pollution,Co(II),Unspecified,Health,Water Pollution_Co(II)_Unspecified_Health,$/kg,0.00
+Afghanistan,Water Pollution,Cr(III),Freshwaster,Health,Water Pollution_Cr(III)_Freshwaster_Health,$/kg,0.00
+Afghanistan,Water Pollution,Cr(III),Seawater,Health,Water Pollution_Cr(III)_Seawater_Health,$/kg,0.00
+Afghanistan,Water Pollution,Cr(III),Unspecified,Health,Water Pollution_Cr(III)_Unspecified_Health,$/kg,0.00
+Afghanistan,Water Pollution,Cr(VI),Freshwaster,Health,Water Pollution_Cr(VI)_Freshwaster_Health,$/kg,"4,365.30"
+Afghanistan,Water Pollution,Cr(VI),Seawater,Health,Water Pollution_Cr(VI)_Seawater_Health,$/kg,107.08
+Afghanistan,Water Pollution,Cr(VI),Unspecified,Health,Water Pollution_Cr(VI)_Unspecified_Health,$/kg,"4,365.30"
+Afghanistan,Water Pollution,Cu(II),Freshwaster,Health,Water Pollution_Cu(II)_Freshwaster_Health,$/kg,0.00
+Afghanistan,Water Pollution,Cu(II),Seawater,Health,Water Pollution_Cu(II)_Seawater_Health,$/kg,0.00
+Afghanistan,Water Pollution,Cu(II),Unspecified,Health,Water Pollution_Cu(II)_Unspecified_Health,$/kg,0.00
+Afghanistan,Water Pollution,Hg(II),Freshwaster,Health,Water Pollution_Hg(II)_Freshwaster_Health,$/kg,96.17
+Afghanistan,Water Pollution,Hg(II),Seawater,Health,Water Pollution_Hg(II)_Seawater_Health,$/kg,81.26
+Afghanistan,Water Pollution,Hg(II),Unspecified,Health,Water Pollution_Hg(II)_Unspecified_Health,$/kg,96.17
+Afghanistan,Water Pollution,Mo(VI),Freshwaster,Health,Water Pollution_Mo(VI)_Freshwaster_Health,$/kg,15.78
+Afghanistan,Water Pollution,Mo(VI),Seawater,Health,Water Pollution_Mo(VI)_Seawater_Health,$/kg,0.08
+Afghanistan,Water Pollution,Mo(VI),Unspecified,Health,Water Pollution_Mo(VI)_Unspecified_Health,$/kg,15.78
+Afghanistan,Water Pollution,Ni(II),Freshwaster,Health,Water Pollution_Ni(II)_Freshwaster_Health,$/kg,148.01
+Afghanistan,Water Pollution,Ni(II),Seawater,Health,Water Pollution_Ni(II)_Seawater_Health,$/kg,4.80
+Afghanistan,Water Pollution,Ni(II),Unspecified,Health,Water Pollution_Ni(II)_Unspecified_Health,$/kg,148.01
+Afghanistan,Water Pollution,Pb(II),Freshwaster,Health,Water Pollution_Pb(II)_Freshwaster_Health,$/kg,0.50
+Afghanistan,Water Pollution,Pb(II),Seawater,Health,Water Pollution_Pb(II)_Seawater_Health,$/kg,0.03
+Afghanistan,Water Pollution,Pb(II),Unspecified,Health,Water Pollution_Pb(II)_Unspecified_Health,$/kg,0.50
+Afghanistan,Water Pollution,Sb(III),Freshwaster,Health,Water Pollution_Sb(III)_Freshwaster_Health,$/kg,82.49
+Afghanistan,Water Pollution,Sb(III),Seawater,Health,Water Pollution_Sb(III)_Seawater_Health,$/kg,1.73
+Afghanistan,Water Pollution,Sb(III),Unspecified,Health,Water Pollution_Sb(III)_Unspecified_Health,$/kg,82.49
+Afghanistan,Water Pollution,Sb(V),Freshwaster,Health,Water Pollution_Sb(V)_Freshwaster_Health,$/kg,82.49
+Afghanistan,Water Pollution,Sb(V),Seawater,Health,Water Pollution_Sb(V)_Seawater_Health,$/kg,1.73
+Afghanistan,Water Pollution,Sb(V),Unspecified,Health,Water Pollution_Sb(V)_Unspecified_Health,$/kg,82.49
+Afghanistan,Water Pollution,Se(IV),Freshwaster,Health,Water Pollution_Se(IV)_Freshwaster_Health,$/kg,0.00
+Afghanistan,Water Pollution,Se(IV),Seawater,Health,Water Pollution_Se(IV)_Seawater_Health,$/kg,0.00
+Afghanistan,Water Pollution,Se(IV),Unspecified,Health,Water Pollution_Se(IV)_Unspecified_Health,$/kg,0.00
+Afghanistan,Water Pollution,Tl(I),Freshwaster,Health,Water Pollution_Tl(I)_Freshwaster_Health,$/kg,102.09
+Afghanistan,Water Pollution,Tl(I),Seawater,Health,Water Pollution_Tl(I)_Seawater_Health,$/kg,5.11
+Afghanistan,Water Pollution,Tl(I),Unspecified,Health,Water Pollution_Tl(I)_Unspecified_Health,$/kg,102.09
+Afghanistan,Water Pollution,V(V),Freshwaster,Health,Water Pollution_V(V)_Freshwaster_Health,$/kg,19.52
+Afghanistan,Water Pollution,V(V),Seawater,Health,Water Pollution_V(V)_Seawater_Health,$/kg,1.24
+Afghanistan,Water Pollution,V(V),Unspecified,Health,Water Pollution_V(V)_Unspecified_Health,$/kg,19.52
+Afghanistan,Water Pollution,Zn(II),Freshwaster,Health,Water Pollution_Zn(II)_Freshwaster_Health,$/kg,2.53
+Afghanistan,Water Pollution,Zn(II),Seawater,Health,Water Pollution_Zn(II)_Seawater_Health,$/kg,2.39
+Afghanistan,Water Pollution,Zn(II),Unspecified,Health,Water Pollution_Zn(II)_Unspecified_Health,$/kg,2.53
+Afghanistan,Water Pollution,"1,2-dichlorobenzene",Freshwaster,Health,"Water Pollution_1,2-dichlorobenzene_Freshwaster_Health",$/kg,0.04
+Afghanistan,Water Pollution,"1,2-dichlorobenzene",Seawater,Health,"Water Pollution_1,2-dichlorobenzene_Seawater_Health",$/kg,0.00
+Afghanistan,Water Pollution,"1,2-dichlorobenzene",Unspecified,Health,"Water Pollution_1,2-dichlorobenzene_Unspecified_Health",$/kg,0.04
+Afghanistan,Water Pollution,"1,2-dichloroethane",Freshwaster,Health,"Water Pollution_1,2-dichloroethane_Freshwaster_Health",$/kg,13.10
+Afghanistan,Water Pollution,"1,2-dichloroethane",Seawater,Health,"Water Pollution_1,2-dichloroethane_Seawater_Health",$/kg,0.12
+Afghanistan,Water Pollution,"1,2-dichloroethane",Unspecified,Health,"Water Pollution_1,2-dichloroethane_Unspecified_Health",$/kg,13.10
+Afghanistan,Water Pollution,"1,2-DIMETHYL-5-NITRO-1H-IMIDAZOLE",Freshwaster,Health,"Water Pollution_1,2-DIMETHYL-5-NITRO-1H-IMIDAZOLE_Freshwaster_Health",$/kg,32.32
+Afghanistan,Water Pollution,"1,2-DIMETHYL-5-NITRO-1H-IMIDAZOLE",Seawater,Health,"Water Pollution_1,2-DIMETHYL-5-NITRO-1H-IMIDAZOLE_Seawater_Health",$/kg,0.00
+Afghanistan,Water Pollution,"1,2-DIMETHYL-5-NITRO-1H-IMIDAZOLE",Unspecified,Health,"Water Pollution_1,2-DIMETHYL-5-NITRO-1H-IMIDAZOLE_Unspecified_Health",$/kg,32.32
+Afghanistan,Water Pollution,"1,3-Dichloropropene",Freshwaster,Health,"Water Pollution_1,3-Dichloropropene_Freshwaster_Health",$/kg,17.80
+Afghanistan,Water Pollution,"1,3-Dichloropropene",Seawater,Health,"Water Pollution_1,3-Dichloropropene_Seawater_Health",$/kg,2.83
+Afghanistan,Water Pollution,"1,3-Dichloropropene",Unspecified,Health,"Water Pollution_1,3-Dichloropropene_Unspecified_Health",$/kg,17.80
+Afghanistan,Water Pollution,"1,4-dichlorobenzene",Freshwaster,Health,"Water Pollution_1,4-dichlorobenzene_Freshwaster_Health",$/kg,0.59
+Afghanistan,Water Pollution,"1,4-dichlorobenzene",Seawater,Health,"Water Pollution_1,4-dichlorobenzene_Seawater_Health",$/kg,0.01
+Afghanistan,Water Pollution,"1,4-dichlorobenzene",Unspecified,Health,"Water Pollution_1,4-dichlorobenzene_Unspecified_Health",$/kg,0.59
+Afghanistan,Water Pollution,"2-(2,4-dichlorophenoxy)acetic acid",Freshwaster,Health,"Water Pollution_2-(2,4-dichlorophenoxy)acetic acid_Freshwaster_Health",$/kg,5.14
+Afghanistan,Water Pollution,"2-(2,4-dichlorophenoxy)acetic acid",Seawater,Health,"Water Pollution_2-(2,4-dichlorophenoxy)acetic acid_Seawater_Health",$/kg,0.00
+Afghanistan,Water Pollution,"2-(2,4-dichlorophenoxy)acetic acid",Unspecified,Health,"Water Pollution_2-(2,4-dichlorophenoxy)acetic acid_Unspecified_Health",$/kg,5.14
+Afghanistan,Water Pollution,"2,4,6-trichlorophenol",Freshwaster,Health,"Water Pollution_2,4,6-trichlorophenol_Freshwaster_Health",$/kg,1.52
+Afghanistan,Water Pollution,"2,4,6-trichlorophenol",Seawater,Health,"Water Pollution_2,4,6-trichlorophenol_Seawater_Health",$/kg,0.00
+Afghanistan,Water Pollution,"2,4,6-trichlorophenol",Unspecified,Health,"Water Pollution_2,4,6-trichlorophenol_Unspecified_Health",$/kg,1.52
+Afghanistan,Water Pollution,2-CHLOROPHENOL,Freshwaster,Health,Water Pollution_2-CHLOROPHENOL_Freshwaster_Health,$/kg,2.59
+Afghanistan,Water Pollution,2-CHLOROPHENOL,Seawater,Health,Water Pollution_2-CHLOROPHENOL_Seawater_Health,$/kg,0.00
+Afghanistan,Water Pollution,2-CHLOROPHENOL,Unspecified,Health,Water Pollution_2-CHLOROPHENOL_Unspecified_Health,$/kg,2.59
+Afghanistan,Water Pollution,3-Methylcholanthrene,Freshwaster,Health,Water Pollution_3-Methylcholanthrene_Freshwaster_Health,$/kg,38.30
+Afghanistan,Water Pollution,3-Methylcholanthrene,Seawater,Health,Water Pollution_3-Methylcholanthrene_Seawater_Health,$/kg,8.36
+Afghanistan,Water Pollution,3-Methylcholanthrene,Unspecified,Health,Water Pollution_3-Methylcholanthrene_Unspecified_Health,$/kg,38.30
+Afghanistan,Water Pollution,4-CHLOROANILINE,Freshwaster,Health,Water Pollution_4-CHLOROANILINE_Freshwaster_Health,$/kg,0.53
+Afghanistan,Water Pollution,4-CHLOROANILINE,Seawater,Health,Water Pollution_4-CHLOROANILINE_Seawater_Health,$/kg,0.00
+Afghanistan,Water Pollution,4-CHLOROANILINE,Unspecified,Health,Water Pollution_4-CHLOROANILINE_Unspecified_Health,$/kg,0.53
+Afghanistan,Water Pollution,"7,12-Dimethylbenz(a)anthracene",Freshwaster,Health,"Water Pollution_7,12-Dimethylbenz(a)anthracene_Freshwaster_Health",$/kg,"1,534.86"
+Afghanistan,Water Pollution,"7,12-Dimethylbenz(a)anthracene",Seawater,Health,"Water Pollution_7,12-Dimethylbenz(a)anthracene_Seawater_Health",$/kg,109.55
+Afghanistan,Water Pollution,"7,12-Dimethylbenz(a)anthracene",Unspecified,Health,"Water Pollution_7,12-Dimethylbenz(a)anthracene_Unspecified_Health",$/kg,"1,534.86"
+Afghanistan,Water Pollution,Acenapthene,Freshwaster,Health,Water Pollution_Acenapthene_Freshwaster_Health,$/kg,9.10
+Afghanistan,Water Pollution,Acenapthene,Seawater,Health,Water Pollution_Acenapthene_Seawater_Health,$/kg,0.09
+Afghanistan,Water Pollution,Acenapthene,Unspecified,Health,Water Pollution_Acenapthene_Unspecified_Health,$/kg,9.10
+Afghanistan,Water Pollution,ACEPHATE,Freshwaster,Health,Water Pollution_ACEPHATE_Freshwaster_Health,$/kg,956.64
+Afghanistan,Water Pollution,ACEPHATE,Seawater,Health,Water Pollution_ACEPHATE_Seawater_Health,$/kg,0.00
+Afghanistan,Water Pollution,ACEPHATE,Unspecified,Health,Water Pollution_ACEPHATE_Unspecified_Health,$/kg,956.64
+Afghanistan,Water Pollution,"ACETAMIDE,",Freshwaster,Health,"Water Pollution_ACETAMIDE,_Freshwaster_Health",$/kg,0.73
+Afghanistan,Water Pollution,"ACETAMIDE,",Seawater,Health,"Water Pollution_ACETAMIDE,_Seawater_Health",$/kg,0.00
+Afghanistan,Water Pollution,"ACETAMIDE,",Unspecified,Health,"Water Pollution_ACETAMIDE,_Unspecified_Health",$/kg,0.73
+Afghanistan,Water Pollution,Albuterol,Freshwaster,Health,Water Pollution_Albuterol_Freshwaster_Health,$/kg,5.26
+Afghanistan,Water Pollution,Albuterol,Seawater,Health,Water Pollution_Albuterol_Seawater_Health,$/kg,0.00
+Afghanistan,Water Pollution,Albuterol,Unspecified,Health,Water Pollution_Albuterol_Unspecified_Health,$/kg,5.26
+Afghanistan,Water Pollution,Aldicarb,Freshwaster,Health,Water Pollution_Aldicarb_Freshwaster_Health,$/kg,139.98
+Afghanistan,Water Pollution,Aldicarb,Seawater,Health,Water Pollution_Aldicarb_Seawater_Health,$/kg,0.00
+Afghanistan,Water Pollution,Aldicarb,Unspecified,Health,Water Pollution_Aldicarb_Unspecified_Health,$/kg,139.98
+Afghanistan,Water Pollution,aniline,Freshwaster,Health,Water Pollution_aniline_Freshwaster_Health,$/kg,7.13
+Afghanistan,Water Pollution,aniline,Seawater,Health,Water Pollution_aniline_Seawater_Health,$/kg,0.00
+Afghanistan,Water Pollution,aniline,Unspecified,Health,Water Pollution_aniline_Unspecified_Health,$/kg,7.13
+Afghanistan,Water Pollution,anthracene,Freshwaster,Health,Water Pollution_anthracene_Freshwaster_Health,$/kg,127.97
+Afghanistan,Water Pollution,anthracene,Seawater,Health,Water Pollution_anthracene_Seawater_Health,$/kg,8.30
+Afghanistan,Water Pollution,anthracene,Unspecified,Health,Water Pollution_anthracene_Unspecified_Health,$/kg,127.97
+Afghanistan,Water Pollution,ANTIPYRINE,Freshwaster,Health,Water Pollution_ANTIPYRINE_Freshwaster_Health,$/kg,1.03
+Afghanistan,Water Pollution,ANTIPYRINE,Seawater,Health,Water Pollution_ANTIPYRINE_Seawater_Health,$/kg,0.00
+Afghanistan,Water Pollution,ANTIPYRINE,Unspecified,Health,Water Pollution_ANTIPYRINE_Unspecified_Health,$/kg,1.03
+Afghanistan,Water Pollution,Atrazine,Freshwaster,Health,Water Pollution_Atrazine_Freshwaster_Health,$/kg,21.90
+Afghanistan,Water Pollution,Atrazine,Seawater,Health,Water Pollution_Atrazine_Seawater_Health,$/kg,0.00
+Afghanistan,Water Pollution,Atrazine,Unspecified,Health,Water Pollution_Atrazine_Unspecified_Health,$/kg,21.90
+Afghanistan,Water Pollution,benzene,Freshwaster,Health,Water Pollution_benzene_Freshwaster_Health,$/kg,1.38
+Afghanistan,Water Pollution,benzene,Seawater,Health,Water Pollution_benzene_Seawater_Health,$/kg,0.03
+Afghanistan,Water Pollution,benzene,Unspecified,Health,Water Pollution_benzene_Unspecified_Health,$/kg,1.38
+Afghanistan,Water Pollution,Benzidine,Freshwaster,Health,Water Pollution_Benzidine_Freshwaster_Health,$/kg,"55,747.20"
+Afghanistan,Water Pollution,Benzidine,Seawater,Health,Water Pollution_Benzidine_Seawater_Health,$/kg,0.06
+Afghanistan,Water Pollution,Benzidine,Unspecified,Health,Water Pollution_Benzidine_Unspecified_Health,$/kg,"55,747.20"
+Afghanistan,Water Pollution,benzo[a]pyrene,Freshwaster,Health,Water Pollution_benzo[a]pyrene_Freshwaster_Health,$/kg,"1,350.68"
+Afghanistan,Water Pollution,benzo[a]pyrene,Seawater,Health,Water Pollution_benzo[a]pyrene_Seawater_Health,$/kg,54.28
+Afghanistan,Water Pollution,benzo[a]pyrene,Unspecified,Health,Water Pollution_benzo[a]pyrene_Unspecified_Health,$/kg,"1,350.68"
+Afghanistan,Water Pollution,Bezafibrate,Freshwaster,Health,Water Pollution_Bezafibrate_Freshwaster_Health,$/kg,2.35
+Afghanistan,Water Pollution,Bezafibrate,Seawater,Health,Water Pollution_Bezafibrate_Seawater_Health,$/kg,0.00
+Afghanistan,Water Pollution,Bezafibrate,Unspecified,Health,Water Pollution_Bezafibrate_Unspecified_Health,$/kg,2.35
+Afghanistan,Water Pollution,butyl benzyl phthalate ,Freshwaster,Health,Water Pollution_butyl benzyl phthalate _Freshwaster_Health,$/kg,0.40
+Afghanistan,Water Pollution,butyl benzyl phthalate ,Seawater,Health,Water Pollution_butyl benzyl phthalate _Seawater_Health,$/kg,0.00
+Afghanistan,Water Pollution,butyl benzyl phthalate,Unspecified,Health,Water Pollution_butyl benzyl phthalate_Unspecified_Health,$/kg,0.40
+Afghanistan,Water Pollution,Carbamazepine,Freshwaster,Health,Water Pollution_Carbamazepine_Freshwaster_Health,$/kg,2.78
+Afghanistan,Water Pollution,Carbamazepine,Seawater,Health,Water Pollution_Carbamazepine_Seawater_Health,$/kg,0.00
+Afghanistan,Water Pollution,Carbamazepine,Unspecified,Health,Water Pollution_Carbamazepine_Unspecified_Health,$/kg,2.78
+Afghanistan,Water Pollution,chlorobenzene,Freshwaster,Health,Water Pollution_chlorobenzene_Freshwaster_Health,$/kg,0.50
+Afghanistan,Water Pollution,chlorobenzene,Seawater,Health,Water Pollution_chlorobenzene_Seawater_Health,$/kg,0.00
+Afghanistan,Water Pollution,chlorobenzene,Unspecified,Health,Water Pollution_chlorobenzene_Unspecified_Health,$/kg,0.50
+Afghanistan,Water Pollution,Chloropyrifos,Freshwaster,Health,Water Pollution_Chloropyrifos_Freshwaster_Health,$/kg,34.05
+Afghanistan,Water Pollution,Chloropyrifos,Seawater,Health,Water Pollution_Chloropyrifos_Seawater_Health,$/kg,0.20
+Afghanistan,Water Pollution,Chloropyrifos,Unspecified,Health,Water Pollution_Chloropyrifos_Unspecified_Health,$/kg,34.05
+Afghanistan,Water Pollution,Chlorothalonil,Freshwaster,Health,Water Pollution_Chlorothalonil_Freshwaster_Health,$/kg,2.22
+Afghanistan,Water Pollution,Chlorothalonil,Seawater,Health,Water Pollution_Chlorothalonil_Seawater_Health,$/kg,0.00
+Afghanistan,Water Pollution,Chlorothalonil,Unspecified,Health,Water Pollution_Chlorothalonil_Unspecified_Health,$/kg,2.22
+Afghanistan,Water Pollution,CYANAZINE,Freshwaster,Health,Water Pollution_CYANAZINE_Freshwaster_Health,$/kg,119.48
+Afghanistan,Water Pollution,CYANAZINE,Seawater,Health,Water Pollution_CYANAZINE_Seawater_Health,$/kg,0.00
+Afghanistan,Water Pollution,CYANAZINE,Unspecified,Health,Water Pollution_CYANAZINE_Unspecified_Health,$/kg,119.48
+Afghanistan,Water Pollution,CYPERMETHRIN,Freshwaster,Health,Water Pollution_CYPERMETHRIN_Freshwaster_Health,$/kg,0.71
+Afghanistan,Water Pollution,CYPERMETHRIN,Seawater,Health,Water Pollution_CYPERMETHRIN_Seawater_Health,$/kg,0.00
+Afghanistan,Water Pollution,CYPERMETHRIN,Unspecified,Health,Water Pollution_CYPERMETHRIN_Unspecified_Health,$/kg,0.71
+Afghanistan,Water Pollution,DEF,Freshwaster,Health,Water Pollution_DEF_Freshwaster_Health,$/kg,65.89
+Afghanistan,Water Pollution,DEF,Seawater,Health,Water Pollution_DEF_Seawater_Health,$/kg,0.00
+Afghanistan,Water Pollution,DEF,Unspecified,Health,Water Pollution_DEF_Unspecified_Health,$/kg,65.89
+Afghanistan,Water Pollution,di-(2-ethylhexyl)-phthalate (DEHP),Freshwaster,Health,Water Pollution_di-(2-ethylhexyl)-phthalate (DEHP)_Freshwaster_Health,$/kg,0.55
+Afghanistan,Water Pollution,di-(2-ethylhexyl)-phthalate (DEHP),Seawater,Health,Water Pollution_di-(2-ethylhexyl)-phthalate (DEHP)_Seawater_Health,$/kg,0.00
+Afghanistan,Water Pollution,di-(2-ethylhexyl)-phthalate (DEHP),Unspecified,Health,Water Pollution_di-(2-ethylhexyl)-phthalate (DEHP)_Unspecified_Health,$/kg,0.55
+Afghanistan,Water Pollution,Diazinon,Freshwaster,Health,Water Pollution_Diazinon_Freshwaster_Health,$/kg,136.69
+Afghanistan,Water Pollution,Diazinon,Seawater,Health,Water Pollution_Diazinon_Seawater_Health,$/kg,0.00
+Afghanistan,Water Pollution,Diazinon,Unspecified,Health,Water Pollution_Diazinon_Unspecified_Health,$/kg,136.69
+Afghanistan,Water Pollution,"Dibenz(a,h)anthracene",Freshwaster,Health,"Water Pollution_Dibenz(a,h)anthracene_Freshwaster_Health",$/kg,949.55
+Afghanistan,Water Pollution,"Dibenz(a,h)anthracene",Seawater,Health,"Water Pollution_Dibenz(a,h)anthracene_Seawater_Health",$/kg,160.04
+Afghanistan,Water Pollution,"Dibenz(a,h)anthracene",Unspecified,Health,"Water Pollution_Dibenz(a,h)anthracene_Unspecified_Health",$/kg,949.55
+Afghanistan,Water Pollution,Dicamba,Freshwaster,Health,Water Pollution_Dicamba_Freshwaster_Health,$/kg,2.84
+Afghanistan,Water Pollution,Dicamba,Seawater,Health,Water Pollution_Dicamba_Seawater_Health,$/kg,0.00
+Afghanistan,Water Pollution,Dicamba,Unspecified,Health,Water Pollution_Dicamba_Unspecified_Health,$/kg,2.84
+Afghanistan,Water Pollution,dichloromethane/methylenechloride (CH2Cl2) ,Freshwaster,Health,Water Pollution_dichloromethane/methylenechloride (CH2Cl2) _Freshwaster_Health,$/kg,0.70
+Afghanistan,Water Pollution,dichloromethane/methylenechloride (CH2Cl2) ,Seawater,Health,Water Pollution_dichloromethane/methylenechloride (CH2Cl2) _Seawater_Health,$/kg,0.01
+Afghanistan,Water Pollution,dichloromethane/methylenechloride (CH2Cl2) ,Unspecified,Health,Water Pollution_dichloromethane/methylenechloride (CH2Cl2) _Unspecified_Health,$/kg,0.70
+Afghanistan,Water Pollution,Diclofenac,Freshwaster,Health,Water Pollution_Diclofenac_Freshwaster_Health,$/kg,16.77
+Afghanistan,Water Pollution,Diclofenac,Seawater,Health,Water Pollution_Diclofenac_Seawater_Health,$/kg,0.00
+Afghanistan,Water Pollution,Diclofenac,Unspecified,Health,Water Pollution_Diclofenac_Unspecified_Health,$/kg,16.77
+Afghanistan,Water Pollution,Dicrotophos,Freshwaster,Health,Water Pollution_Dicrotophos_Freshwaster_Health,$/kg,93.98
+Afghanistan,Water Pollution,Dicrotophos,Seawater,Health,Water Pollution_Dicrotophos_Seawater_Health,$/kg,0.00
+Afghanistan,Water Pollution,Dicrotophos,Unspecified,Health,Water Pollution_Dicrotophos_Unspecified_Health,$/kg,93.98
+Afghanistan,Water Pollution,Ethephon,Freshwaster,Health,Water Pollution_Ethephon_Freshwaster_Health,$/kg,7.00
+Afghanistan,Water Pollution,Ethephon,Seawater,Health,Water Pollution_Ethephon_Seawater_Health,$/kg,0.00
+Afghanistan,Water Pollution,Ethephon,Unspecified,Health,Water Pollution_Ethephon_Unspecified_Health,$/kg,7.00
+Afghanistan,Water Pollution,fluoranthene,Freshwaster,Health,Water Pollution_fluoranthene_Freshwaster_Health,$/kg,12.63
+Afghanistan,Water Pollution,fluoranthene,Seawater,Health,Water Pollution_fluoranthene_Seawater_Health,$/kg,1.53
+Afghanistan,Water Pollution,fluoranthene,Unspecified,Health,Water Pollution_fluoranthene_Unspecified_Health,$/kg,12.63
+Afghanistan,Water Pollution,fluorene,Freshwaster,Health,Water Pollution_fluorene_Freshwaster_Health,$/kg,10.57
+Afghanistan,Water Pollution,fluorene,Seawater,Health,Water Pollution_fluorene_Seawater_Health,$/kg,0.13
+Afghanistan,Water Pollution,fluorene,Unspecified,Health,Water Pollution_fluorene_Unspecified_Health,$/kg,10.57
+Afghanistan,Water Pollution,Fluvastatin,Freshwaster,Health,Water Pollution_Fluvastatin_Freshwaster_Health,$/kg,4.40
+Afghanistan,Water Pollution,Fluvastatin,Seawater,Health,Water Pollution_Fluvastatin_Seawater_Health,$/kg,0.00
+Afghanistan,Water Pollution,Fluvastatin,Unspecified,Health,Water Pollution_Fluvastatin_Unspecified_Health,$/kg,4.40
+Afghanistan,Water Pollution,FUROSEMIDE,Freshwaster,Health,Water Pollution_FUROSEMIDE_Freshwaster_Health,$/kg,1.54
+Afghanistan,Water Pollution,FUROSEMIDE,Seawater,Health,Water Pollution_FUROSEMIDE_Seawater_Health,$/kg,0.00
+Afghanistan,Water Pollution,FUROSEMIDE,Unspecified,Health,Water Pollution_FUROSEMIDE_Unspecified_Health,$/kg,1.54
+Afghanistan,Water Pollution,Gemfibrozil,Freshwaster,Health,Water Pollution_Gemfibrozil_Freshwaster_Health,$/kg,2.22
+Afghanistan,Water Pollution,Gemfibrozil,Seawater,Health,Water Pollution_Gemfibrozil_Seawater_Health,$/kg,0.00
+Afghanistan,Water Pollution,Gemfibrozil,Unspecified,Health,Water Pollution_Gemfibrozil_Unspecified_Health,$/kg,2.22
+Afghanistan,Water Pollution,GLUFOSINATE-AMMONIUM,Freshwaster,Health,Water Pollution_GLUFOSINATE-AMMONIUM_Freshwaster_Health,$/kg,4.67
+Afghanistan,Water Pollution,GLUFOSINATE-AMMONIUM,Seawater,Health,Water Pollution_GLUFOSINATE-AMMONIUM_Seawater_Health,$/kg,0.00
+Afghanistan,Water Pollution,GLUFOSINATE-AMMONIUM,Unspecified,Health,Water Pollution_GLUFOSINATE-AMMONIUM_Unspecified_Health,$/kg,4.67
+Afghanistan,Water Pollution,Glyphosate,Freshwaster,Health,Water Pollution_Glyphosate_Freshwaster_Health,$/kg,0.30
+Afghanistan,Water Pollution,Glyphosate,Seawater,Health,Water Pollution_Glyphosate_Seawater_Health,$/kg,0.00
+Afghanistan,Water Pollution,Glyphosate,Unspecified,Health,Water Pollution_Glyphosate_Unspecified_Health,$/kg,0.30
+Afghanistan,Water Pollution,INDOMETHACIN,Freshwaster,Health,Water Pollution_INDOMETHACIN_Freshwaster_Health,$/kg,477.46
+Afghanistan,Water Pollution,INDOMETHACIN,Seawater,Health,Water Pollution_INDOMETHACIN_Seawater_Health,$/kg,0.05
+Afghanistan,Water Pollution,INDOMETHACIN,Unspecified,Health,Water Pollution_INDOMETHACIN_Unspecified_Health,$/kg,477.46
+Afghanistan,Water Pollution,Iopromide,Freshwaster,Health,Water Pollution_Iopromide_Freshwaster_Health,$/kg,0.27
+Afghanistan,Water Pollution,Iopromide,Seawater,Health,Water Pollution_Iopromide_Seawater_Health,$/kg,0.00
+Afghanistan,Water Pollution,Iopromide,Unspecified,Health,Water Pollution_Iopromide_Unspecified_Health,$/kg,0.27
+Afghanistan,Water Pollution,Malathion,Freshwaster,Health,Water Pollution_Malathion_Freshwaster_Health,$/kg,0.32
+Afghanistan,Water Pollution,Malathion,Seawater,Health,Water Pollution_Malathion_Seawater_Health,$/kg,0.00
+Afghanistan,Water Pollution,Malathion,Unspecified,Health,Water Pollution_Malathion_Unspecified_Health,$/kg,0.32
+Afghanistan,Water Pollution,Mancozeb,Freshwaster,Health,Water Pollution_Mancozeb_Freshwaster_Health,$/kg,2.98
+Afghanistan,Water Pollution,Mancozeb,Seawater,Health,Water Pollution_Mancozeb_Seawater_Health,$/kg,0.00
+Afghanistan,Water Pollution,Mancozeb,Unspecified,Health,Water Pollution_Mancozeb_Unspecified_Health,$/kg,2.98
+Afghanistan,Water Pollution,Methyl Bromide,Freshwaster,Health,Water Pollution_Methyl Bromide_Freshwaster_Health,$/kg,1.82
+Afghanistan,Water Pollution,Methyl Bromide,Seawater,Health,Water Pollution_Methyl Bromide_Seawater_Health,$/kg,0.21
+Afghanistan,Water Pollution,Methyl Bromide,Unspecified,Health,Water Pollution_Methyl Bromide_Unspecified_Health,$/kg,1.82
+Afghanistan,Water Pollution,Metolachlor,Freshwaster,Health,Water Pollution_Metolachlor_Freshwaster_Health,$/kg,1.09
+Afghanistan,Water Pollution,Metolachlor,Seawater,Health,Water Pollution_Metolachlor_Seawater_Health,$/kg,0.00
+Afghanistan,Water Pollution,Metolachlor,Unspecified,Health,Water Pollution_Metolachlor_Unspecified_Health,$/kg,1.09
+Afghanistan,Water Pollution,Metoprolol,Freshwaster,Health,Water Pollution_Metoprolol_Freshwaster_Health,$/kg,0.56
+Afghanistan,Water Pollution,Metoprolol,Seawater,Health,Water Pollution_Metoprolol_Seawater_Health,$/kg,0.00
+Afghanistan,Water Pollution,Metoprolol,Unspecified,Health,Water Pollution_Metoprolol_Unspecified_Health,$/kg,0.56
+Afghanistan,Water Pollution,METRONIDAZOLE,Freshwaster,Health,Water Pollution_METRONIDAZOLE_Freshwaster_Health,$/kg,1.94
+Afghanistan,Water Pollution,METRONIDAZOLE,Seawater,Health,Water Pollution_METRONIDAZOLE_Seawater_Health,$/kg,0.00
+Afghanistan,Water Pollution,METRONIDAZOLE,Unspecified,Health,Water Pollution_METRONIDAZOLE_Unspecified_Health,$/kg,1.94
+Afghanistan,Water Pollution,Naled,Freshwaster,Health,Water Pollution_Naled_Freshwaster_Health,$/kg,28.15
+Afghanistan,Water Pollution,Naled,Seawater,Health,Water Pollution_Naled_Seawater_Health,$/kg,0.07
+Afghanistan,Water Pollution,Naled,Unspecified,Health,Water Pollution_Naled_Unspecified_Health,$/kg,28.15
+Afghanistan,Water Pollution,NALIDIXIC ACID,Freshwaster,Health,Water Pollution_NALIDIXIC ACID_Freshwaster_Health,$/kg,2.74
+Afghanistan,Water Pollution,NALIDIXIC ACID,Seawater,Health,Water Pollution_NALIDIXIC ACID_Seawater_Health,$/kg,0.00
+Afghanistan,Water Pollution,NALIDIXIC ACID,Unspecified,Health,Water Pollution_NALIDIXIC ACID_Unspecified_Health,$/kg,2.74
+Afghanistan,Water Pollution,naphthalene,Freshwaster,Health,Water Pollution_naphthalene_Freshwaster_Health,$/kg,4.36
+Afghanistan,Water Pollution,naphthalene,Seawater,Health,Water Pollution_naphthalene_Seawater_Health,$/kg,0.01
+Afghanistan,Water Pollution,naphthalene,Unspecified,Health,Water Pollution_naphthalene_Unspecified_Health,$/kg,4.36
+Afghanistan,Water Pollution,OXOLINIC ACID,Freshwaster,Health,Water Pollution_OXOLINIC ACID_Freshwaster_Health,$/kg,3.29
+Afghanistan,Water Pollution,OXOLINIC ACID,Seawater,Health,Water Pollution_OXOLINIC ACID_Seawater_Health,$/kg,0.00
+Afghanistan,Water Pollution,OXOLINIC ACID,Unspecified,Health,Water Pollution_OXOLINIC ACID_Unspecified_Health,$/kg,3.29
+Afghanistan,Water Pollution,Paraquat,Freshwaster,Health,Water Pollution_Paraquat_Freshwaster_Health,$/kg,5.96
+Afghanistan,Water Pollution,Paraquat,Seawater,Health,Water Pollution_Paraquat_Seawater_Health,$/kg,0.00
+Afghanistan,Water Pollution,Paraquat,Unspecified,Health,Water Pollution_Paraquat_Unspecified_Health,$/kg,5.96
+Afghanistan,Water Pollution,Parathion-methyl,Freshwaster,Health,Water Pollution_Parathion-methyl_Freshwaster_Health,$/kg,55.33
+Afghanistan,Water Pollution,Parathion-methyl,Seawater,Health,Water Pollution_Parathion-methyl_Seawater_Health,$/kg,0.00
+Afghanistan,Water Pollution,Parathion-methyl,Unspecified,Health,Water Pollution_Parathion-methyl_Unspecified_Health,$/kg,55.33
+Afghanistan,Water Pollution,Pendimethalin,Freshwaster,Health,Water Pollution_Pendimethalin_Freshwaster_Health,$/kg,0.37
+Afghanistan,Water Pollution,Pendimethalin,Seawater,Health,Water Pollution_Pendimethalin_Seawater_Health,$/kg,0.00
+Afghanistan,Water Pollution,Pendimethalin,Unspecified,Health,Water Pollution_Pendimethalin_Unspecified_Health,$/kg,0.37
+Afghanistan,Water Pollution,pentachlorophenol,Freshwaster,Health,Water Pollution_pentachlorophenol_Freshwaster_Health,$/kg,19.49
+Afghanistan,Water Pollution,pentachlorophenol,Seawater,Health,Water Pollution_pentachlorophenol_Seawater_Health,$/kg,0.01
+Afghanistan,Water Pollution,pentachlorophenol,Unspecified,Health,Water Pollution_pentachlorophenol_Unspecified_Health,$/kg,19.49
+Afghanistan,Water Pollution,Phorate,Freshwaster,Health,Water Pollution_Phorate_Freshwaster_Health,$/kg,58.40
+Afghanistan,Water Pollution,Phorate,Seawater,Health,Water Pollution_Phorate_Seawater_Health,$/kg,0.04
+Afghanistan,Water Pollution,Phorate,Unspecified,Health,Water Pollution_Phorate_Unspecified_Health,$/kg,58.40
+Afghanistan,Water Pollution,Propanil,Freshwaster,Health,Water Pollution_Propanil_Freshwaster_Health,$/kg,3.28
+Afghanistan,Water Pollution,Propanil,Seawater,Health,Water Pollution_Propanil_Seawater_Health,$/kg,0.00
+Afghanistan,Water Pollution,Propanil,Unspecified,Health,Water Pollution_Propanil_Unspecified_Health,$/kg,3.28
+Afghanistan,Water Pollution,pyrene,Freshwaster,Health,Water Pollution_pyrene_Freshwaster_Health,$/kg,11.59
+Afghanistan,Water Pollution,pyrene,Seawater,Health,Water Pollution_pyrene_Seawater_Health,$/kg,2.76
+Afghanistan,Water Pollution,pyrene,Unspecified,Health,Water Pollution_pyrene_Unspecified_Health,$/kg,11.59
+Afghanistan,Water Pollution,"Pyrene, 1-nitro-",Freshwaster,Health,"Water Pollution_Pyrene, 1-nitro-_Freshwaster_Health",$/kg,126.46
+Afghanistan,Water Pollution,"Pyrene, 1-nitro-",Seawater,Health,"Water Pollution_Pyrene, 1-nitro-_Seawater_Health",$/kg,1.22
+Afghanistan,Water Pollution,"Pyrene, 1-nitro-",Unspecified,Health,"Water Pollution_Pyrene, 1-nitro-_Unspecified_Health",$/kg,126.46
+Afghanistan,Water Pollution,Sulfamethoxazole,Freshwaster,Health,Water Pollution_Sulfamethoxazole_Freshwaster_Health,$/kg,0.64
+Afghanistan,Water Pollution,Sulfamethoxazole,Seawater,Health,Water Pollution_Sulfamethoxazole_Seawater_Health,$/kg,0.00
+Afghanistan,Water Pollution,Sulfamethoxazole,Unspecified,Health,Water Pollution_Sulfamethoxazole_Unspecified_Health,$/kg,0.64
+Afghanistan,Water Pollution,Terbutaline,Freshwaster,Health,Water Pollution_Terbutaline_Freshwaster_Health,$/kg,0.55
+Afghanistan,Water Pollution,Terbutaline,Seawater,Health,Water Pollution_Terbutaline_Seawater_Health,$/kg,0.00
+Afghanistan,Water Pollution,Terbutaline,Unspecified,Health,Water Pollution_Terbutaline_Unspecified_Health,$/kg,0.55
+Afghanistan,Water Pollution,tetrachloroethylene,Freshwaster,Health,Water Pollution_tetrachloroethylene_Freshwaster_Health,$/kg,3.05
+Afghanistan,Water Pollution,tetrachloroethylene,Seawater,Health,Water Pollution_tetrachloroethylene_Seawater_Health,$/kg,0.06
+Afghanistan,Water Pollution,tetrachloroethylene,Unspecified,Health,Water Pollution_tetrachloroethylene_Unspecified_Health,$/kg,3.05
+Afghanistan,Water Pollution,THIABENDAZOLE,Freshwaster,Health,Water Pollution_THIABENDAZOLE_Freshwaster_Health,$/kg,2.21
+Afghanistan,Water Pollution,THIABENDAZOLE,Seawater,Health,Water Pollution_THIABENDAZOLE_Seawater_Health,$/kg,0.00
+Afghanistan,Water Pollution,THIABENDAZOLE,Unspecified,Health,Water Pollution_THIABENDAZOLE_Unspecified_Health,$/kg,2.21
+Afghanistan,Water Pollution,TRI-2-CHLOROETHYL PHOSPHATE,Freshwaster,Health,Water Pollution_TRI-2-CHLOROETHYL PHOSPHATE_Freshwaster_Health,$/kg,6.15
+Afghanistan,Water Pollution,TRI-2-CHLOROETHYL PHOSPHATE,Seawater,Health,Water Pollution_TRI-2-CHLOROETHYL PHOSPHATE_Seawater_Health,$/kg,0.01
+Afghanistan,Water Pollution,TRI-2-CHLOROETHYL PHOSPHATE,Unspecified,Health,Water Pollution_TRI-2-CHLOROETHYL PHOSPHATE_Unspecified_Health,$/kg,6.15
+Afghanistan,Water Pollution,trichloroethylene,Freshwaster,Health,Water Pollution_trichloroethylene_Freshwaster_Health,$/kg,0.28
+Afghanistan,Water Pollution,trichloroethylene,Seawater,Health,Water Pollution_trichloroethylene_Seawater_Health,$/kg,0.00
+Afghanistan,Water Pollution,trichloroethylene,Unspecified,Health,Water Pollution_trichloroethylene_Unspecified_Health,$/kg,0.28
+Afghanistan,Water Pollution,trifluralin,Freshwaster,Health,Water Pollution_trifluralin_Freshwaster_Health,$/kg,3.42
+Afghanistan,Water Pollution,trifluralin,Seawater,Health,Water Pollution_trifluralin_Seawater_Health,$/kg,0.26
+Afghanistan,Water Pollution,trifluralin,Unspecified,Health,Water Pollution_trifluralin_Unspecified_Health,$/kg,3.42
+Afghanistan,Water Pollution,TRIMETHOPRIM,Freshwaster,Health,Water Pollution_TRIMETHOPRIM_Freshwaster_Health,$/kg,3.19
+Afghanistan,Water Pollution,TRIMETHOPRIM,Seawater,Health,Water Pollution_TRIMETHOPRIM_Seawater_Health,$/kg,0.00
+Afghanistan,Water Pollution,TRIMETHOPRIM,Unspecified,Health,Water Pollution_TRIMETHOPRIM_Unspecified_Health,$/kg,3.19
+Afghanistan,Water Pollution,"Tris (2,3-dibromopropyl) phosphate",Freshwaster,Health,"Water Pollution_Tris (2,3-dibromopropyl) phosphate_Freshwaster_Health",$/kg,89.53
+Afghanistan,Water Pollution,"Tris (2,3-dibromopropyl) phosphate",Seawater,Health,"Water Pollution_Tris (2,3-dibromopropyl) phosphate_Seawater_Health",$/kg,0.65
+Afghanistan,Water Pollution,"Tris (2,3-dibromopropyl) phosphate",Unspecified,Health,"Water Pollution_Tris (2,3-dibromopropyl) phosphate_Unspecified_Health",$/kg,89.53
+Afghanistan,Water Pollution,trrichloromethane/chloroform (CHCl3),Freshwaster,Health,Water Pollution_trrichloromethane/chloroform (CHCl3)_Freshwaster_Health,$/kg,2.85
+Afghanistan,Water Pollution,trrichloromethane/chloroform (CHCl3),Seawater,Health,Water Pollution_trrichloromethane/chloroform (CHCl3)_Seawater_Health,$/kg,0.03
+Afghanistan,Water Pollution,trrichloromethane/chloroform (CHCl3),Unspecified,Health,Water Pollution_trrichloromethane/chloroform (CHCl3)_Unspecified_Health,$/kg,2.85
+Afghanistan,Water Pollution,Warfarin,Freshwaster,Health,Water Pollution_Warfarin_Freshwaster_Health,$/kg,482.05
+Afghanistan,Water Pollution,Warfarin,Seawater,Health,Water Pollution_Warfarin_Seawater_Health,$/kg,0.00
+Afghanistan,Water Pollution,Warfarin,Unspecified,Health,Water Pollution_Warfarin_Unspecified_Health,$/kg,482.05
+Afghanistan,Water Pollution,PAHs,Freshwaster,Health,Water Pollution_PAHs_Freshwaster_Health,$/kg,379.64
+Afghanistan,Water Pollution,PAHs,Seawater,Health,Water Pollution_PAHs_Seawater_Health,$/kg,31.48
+Afghanistan,Water Pollution,PAHs,Unspecified,Health,Water Pollution_PAHs_Unspecified_Health,$/kg,379.64
+Afghanistan,Water Pollution,Pesticides,Freshwaster,Health,Water Pollution_Pesticides_Freshwaster_Health,$/kg,13.66
+Afghanistan,Water Pollution,Pesticides,Seawater,Health,Water Pollution_Pesticides_Seawater_Health,$/kg,0.21
+Afghanistan,Water Pollution,Pesticides,Unspecified,Health,Water Pollution_Pesticides_Unspecified_Health,$/kg,13.66
+Afghanistan,Water Pollution,Antimony,Freshwaster,Health,Water Pollution_Antimony_Freshwaster_Health,$/kg,82.49
+Afghanistan,Water Pollution,Antimony,Seawater,Health,Water Pollution_Antimony_Seawater_Health,$/kg,1.73
+Afghanistan,Water Pollution,Antimony,Unspecified,Health,Water Pollution_Antimony_Unspecified_Health,$/kg,82.49
+Afghanistan,Water Pollution,Arsenic,Freshwaster,Health,Water Pollution_Arsenic_Freshwaster_Health,$/kg,"2,018.01"
+Afghanistan,Water Pollution,Arsenic,Seawater,Health,Water Pollution_Arsenic_Seawater_Health,$/kg,169.19
+Afghanistan,Water Pollution,Arsenic,Unspecified,Health,Water Pollution_Arsenic_Unspecified_Health,$/kg,"2,018.01"
+Afghanistan,Water Pollution,Barium,Freshwaster,Health,Water Pollution_Barium_Freshwaster_Health,$/kg,64.04
+Afghanistan,Water Pollution,Barium,Seawater,Health,Water Pollution_Barium_Seawater_Health,$/kg,12.94
+Afghanistan,Water Pollution,Barium,Unspecified,Health,Water Pollution_Barium_Unspecified_Health,$/kg,64.04
+Afghanistan,Water Pollution,Beryllium,Freshwaster,Health,Water Pollution_Beryllium_Freshwaster_Health,$/kg,0.03
+Afghanistan,Water Pollution,Beryllium,Seawater,Health,Water Pollution_Beryllium_Seawater_Health,$/kg,0.00
+Afghanistan,Water Pollution,Beryllium,Unspecified,Health,Water Pollution_Beryllium_Unspecified_Health,$/kg,0.03
+Afghanistan,Water Pollution,Cadmium,Freshwaster,Health,Water Pollution_Cadmium_Freshwaster_Health,$/kg,435.91
+Afghanistan,Water Pollution,Cadmium,Seawater,Health,Water Pollution_Cadmium_Seawater_Health,$/kg,46.38
+Afghanistan,Water Pollution,Cadmium,Unspecified,Health,Water Pollution_Cadmium_Unspecified_Health,$/kg,435.91
+Afghanistan,Water Pollution,Chromium,Freshwaster,Health,Water Pollution_Chromium_Freshwaster_Health,$/kg,611.14
+Afghanistan,Water Pollution,Chromium,Seawater,Health,Water Pollution_Chromium_Seawater_Health,$/kg,14.99
+Afghanistan,Water Pollution,Chromium,Unspecified,Health,Water Pollution_Chromium_Unspecified_Health,$/kg,611.14
+Afghanistan,Water Pollution,Cobalt,Freshwaster,Health,Water Pollution_Cobalt_Freshwaster_Health,$/kg,0.00
+Afghanistan,Water Pollution,Cobalt,Seawater,Health,Water Pollution_Cobalt_Seawater_Health,$/kg,0.00
+Afghanistan,Water Pollution,Cobalt,Unspecified,Health,Water Pollution_Cobalt_Unspecified_Health,$/kg,0.00
+Afghanistan,Water Pollution,Copper,Freshwaster,Health,Water Pollution_Copper_Freshwaster_Health,$/kg,0.00
+Afghanistan,Water Pollution,Copper,Seawater,Health,Water Pollution_Copper_Seawater_Health,$/kg,0.00
+Afghanistan,Water Pollution,Copper,Unspecified,Health,Water Pollution_Copper_Unspecified_Health,$/kg,0.00
+Afghanistan,Water Pollution,Lead,Freshwaster,Health,Water Pollution_Lead_Freshwaster_Health,$/kg,0.50
+Afghanistan,Water Pollution,Lead,Seawater,Health,Water Pollution_Lead_Seawater_Health,$/kg,0.03
+Afghanistan,Water Pollution,Lead,Unspecified,Health,Water Pollution_Lead_Unspecified_Health,$/kg,0.50
+Afghanistan,Water Pollution,Mercury,Freshwaster,Health,Water Pollution_Mercury_Freshwaster_Health,$/kg,96.17
+Afghanistan,Water Pollution,Mercury,Seawater,Health,Water Pollution_Mercury_Seawater_Health,$/kg,81.26
+Afghanistan,Water Pollution,Mercury,Unspecified,Health,Water Pollution_Mercury_Unspecified_Health,$/kg,96.17
+Afghanistan,Water Pollution,Molybdenum,Freshwaster,Health,Water Pollution_Molybdenum_Freshwaster_Health,$/kg,15.78
+Afghanistan,Water Pollution,Molybdenum,Seawater,Health,Water Pollution_Molybdenum_Seawater_Health,$/kg,0.08
+Afghanistan,Water Pollution,Molybdenum,Unspecified,Health,Water Pollution_Molybdenum_Unspecified_Health,$/kg,15.78
+Afghanistan,Water Pollution,Nickel,Freshwaster,Health,Water Pollution_Nickel_Freshwaster_Health,$/kg,148.01
+Afghanistan,Water Pollution,Nickel,Seawater,Health,Water Pollution_Nickel_Seawater_Health,$/kg,4.80
+Afghanistan,Water Pollution,Nickel,Unspecified,Health,Water Pollution_Nickel_Unspecified_Health,$/kg,148.01
+Afghanistan,Water Pollution,Silver,Freshwaster,Health,Water Pollution_Silver_Freshwaster_Health,$/kg,41.61
+Afghanistan,Water Pollution,Silver,Seawater,Health,Water Pollution_Silver_Seawater_Health,$/kg,0.84
+Afghanistan,Water Pollution,Silver,Unspecified,Health,Water Pollution_Silver_Unspecified_Health,$/kg,41.61
+Afghanistan,Water Pollution,Thallium,Freshwaster,Health,Water Pollution_Thallium_Freshwaster_Health,$/kg,102.09
+Afghanistan,Water Pollution,Thallium,Seawater,Health,Water Pollution_Thallium_Seawater_Health,$/kg,5.11
+Afghanistan,Water Pollution,Thallium,Unspecified,Health,Water Pollution_Thallium_Unspecified_Health,$/kg,102.09
+Afghanistan,Water Pollution,Vanadium,Freshwaster,Health,Water Pollution_Vanadium_Freshwaster_Health,$/kg,19.52
+Afghanistan,Water Pollution,Vanadium,Seawater,Health,Water Pollution_Vanadium_Seawater_Health,$/kg,1.24
+Afghanistan,Water Pollution,Vanadium,Unspecified,Health,Water Pollution_Vanadium_Unspecified_Health,$/kg,19.52
+Afghanistan,Water Pollution,Zinc,Freshwaster,Health,Water Pollution_Zinc_Freshwaster_Health,$/kg,2.53
+Afghanistan,Water Pollution,Zinc,Seawater,Health,Water Pollution_Zinc_Seawater_Health,$/kg,2.39
+Afghanistan,Water Pollution,Zinc,Unspecified,Health,Water Pollution_Zinc_Unspecified_Health,$/kg,2.53
+Afghanistan,Water Pollution,"Analgesics, anesthetics & NSAIDs",Freshwaster,Health,"Water Pollution_Analgesics, anesthetics & NSAIDs_Freshwaster_Health",$/kg,124.00
+Afghanistan,Water Pollution,"Analgesics, anesthetics & NSAIDs",Seawater,Health,"Water Pollution_Analgesics, anesthetics & NSAIDs_Seawater_Health",$/kg,0.01
+Afghanistan,Water Pollution,"Analgesics, anesthetics & NSAIDs",Unspecified,Health,"Water Pollution_Analgesics, anesthetics & NSAIDs_Unspecified_Health",$/kg,124.00
+Afghanistan,Water Pollution,Antibiotics,Seawater,Health,Water Pollution_Antibiotics_Seawater_Health,$/kg,0.00
+Afghanistan,Water Pollution,Antibiotics,Unspecified,Health,Water Pollution_Antibiotics_Unspecified_Health,$/kg,6.38
+Afghanistan,Water Pollution,Anticoagulants,Freshwaster,Health,Water Pollution_Anticoagulants_Freshwaster_Health,$/kg,482.05
+Afghanistan,Water Pollution,Anticoagulants,Seawater,Health,Water Pollution_Anticoagulants_Seawater_Health,$/kg,0.00
+Afghanistan,Water Pollution,Anticoagulants,Unspecified,Health,Water Pollution_Anticoagulants_Unspecified_Health,$/kg,482.05
+Afghanistan,Water Pollution,Antihelminthics,Freshwaster,Health,Water Pollution_Antihelminthics_Freshwaster_Health,$/kg,2.21
+Afghanistan,Water Pollution,Antihelminthics,Seawater,Health,Water Pollution_Antihelminthics_Seawater_Health,$/kg,0.00
+Afghanistan,Water Pollution,Antihelminthics,Unspecified,Health,Water Pollution_Antihelminthics_Unspecified_Health,$/kg,2.21
+Afghanistan,Water Pollution,Antihyperlipidemic agents,Freshwaster,Health,Water Pollution_Antihyperlipidemic agents_Freshwaster_Health,$/kg,2.99
+Afghanistan,Water Pollution,Antihyperlipidemic agents,Seawater,Health,Water Pollution_Antihyperlipidemic agents_Seawater_Health,$/kg,0.00
+Afghanistan,Water Pollution,Antihyperlipidemic agents,Unspecified,Health,Water Pollution_Antihyperlipidemic agents_Unspecified_Health,$/kg,2.99
+Afghanistan,Water Pollution,Beta-agonists,Freshwaster,Health,Water Pollution_Beta-agonists_Freshwaster_Health,$/kg,5.26
+Afghanistan,Water Pollution,Beta-agonists,Seawater,Health,Water Pollution_Beta-agonists_Seawater_Health,$/kg,0.00
+Afghanistan,Water Pollution,Beta-agonists,Unspecified,Health,Water Pollution_Beta-agonists_Unspecified_Health,$/kg,5.26
+Afghanistan,Water Pollution,Beta-blockers,Freshwaster,Health,Water Pollution_Beta-blockers_Freshwaster_Health,$/kg,0.56
+Afghanistan,Water Pollution,Beta-blockers,Seawater,Health,Water Pollution_Beta-blockers_Seawater_Health,$/kg,0.00
+Afghanistan,Water Pollution,Beta-blockers,Unspecified,Health,Water Pollution_Beta-blockers_Unspecified_Health,$/kg,0.56
+Afghanistan,Water Pollution,Contrast agents,Freshwaster,Health,Water Pollution_Contrast agents_Freshwaster_Health,$/kg,0.27
+Afghanistan,Water Pollution,Contrast agents,Seawater,Health,Water Pollution_Contrast agents_Seawater_Health,$/kg,0.00
+Afghanistan,Water Pollution,Contrast agents,Unspecified,Health,Water Pollution_Contrast agents_Unspecified_Health,$/kg,0.27
+Afghanistan,Water Pollution,Diuretics,Freshwaster,Health,Water Pollution_Diuretics_Freshwaster_Health,$/kg,1.54
+Afghanistan,Water Pollution,Diuretics,Seawater,Health,Water Pollution_Diuretics_Seawater_Health,$/kg,0.00
+Afghanistan,Water Pollution,Diuretics,Unspecified,Health,Water Pollution_Diuretics_Unspecified_Health,$/kg,1.54
+Afghanistan,Water Pollution,Psychiatric drugs,Freshwaster,Health,Water Pollution_Psychiatric drugs_Freshwaster_Health,$/kg,2.78
+Afghanistan,Water Pollution,Psychiatric drugs,Seawater,Health,Water Pollution_Psychiatric drugs_Seawater_Health,$/kg,0.00
+Afghanistan,Water Pollution,Psychiatric drugs,Unspecified,Health,Water Pollution_Psychiatric drugs_Unspecified_Health,$/kg,2.78
+Albania,GHG Emissions,N/A for GHG,N/A for GHG,N/A for GHG,GHG Emissions,$/tCO2e,236.00
+Albania,Water Consumption,N/A for WC,N/A for WC,Malnutrition,Water Consumption_N/A for WC_N/A for WC_Malnutrition,USD/m3,0.02
+Albania,Water Consumption,N/A for WC,N/A for WC,Water-borne disease,Water Consumption_N/A for WC_N/A for WC_Water-borne disease,USD/m3,0.13
+Albania,Water Consumption,N/A for WC,N/A for WC,Resource cost,Water Consumption_N/A for WC_N/A for WC_Resource cost,USD/m3,1.00
+Albania,Water Consumption,N/A for WC,N/A for WC,Ecosystem services,Water Consumption_N/A for WC_N/A for WC_Ecosystem services,USD/m3,1.94
+Albania,Waste,Hazardous,Landfill,Leachate,Waste_Hazardous_Landfill_Leachate,$/kg,19.63
+Albania,Waste,Hazardous,Landfill,Waste GHGs,Waste_Hazardous_Landfill_Waste GHGs,$/kg,187.00
+Albania,Waste,Hazardous,Landfill,Disamenity,Waste_Hazardous_Landfill_Disamenity,$/kg,152.67
+Albania,Waste,Non-Hazardous,Landfill,Leachate,Waste_Non-Hazardous_Landfill_Leachate,$/kg,0.33
+Albania,Waste,Non-Hazardous,Landfill,Waste GHGs,Waste_Non-Hazardous_Landfill_Waste GHGs,$/kg,187.00
+Albania,Waste,Non-Hazardous,Landfill,Disamenity,Waste_Non-Hazardous_Landfill_Disamenity,$/kg,152.67
+Albania,Waste,Hazardous,Incineration,Waste GHGs,Waste_Hazardous_Incineration_Waste GHGs,$/kg,380.28
+Albania,Waste,Hazardous,Incineration,Disamenity,Waste_Hazardous_Incineration_Disamenity,$/kg,4.59
+Albania,Waste,Hazardous,Incineration,Waste Air pollution,Waste_Hazardous_Incineration_Waste Air pollution,$/kg,3.70
+Albania,Waste,Hazardous,Incineration,Heavy metals and dioxins,Waste_Hazardous_Incineration_Heavy metals and dioxins,$/kg,4.93
+Albania,Waste,Non-Hazardous,Incineration,Waste GHGs,Waste_Non-Hazardous_Incineration_Waste GHGs,$/kg,94.87
+Albania,Waste,Non-Hazardous,Incineration,Disamenity,Waste_Non-Hazardous_Incineration_Disamenity,$/kg,4.59
+Albania,Waste,Non-Hazardous,Incineration,Waste Air pollution,Waste_Non-Hazardous_Incineration_Waste Air pollution,$/kg,3.70
+Albania,Waste,Non-Hazardous,Incineration,Heavy metals and dioxins,Waste_Non-Hazardous_Incineration_Heavy metals and dioxins,$/kg,4.93
+Albania,Waste,Hazardous,Unspecified,Leachate,Waste_Hazardous_Unspecified_Leachate,$/kg,0.00
+Albania,Waste,Hazardous,Unspecified,Waste Air pollution,Waste_Hazardous_Unspecified_Waste Air pollution,$/kg,3.70
+Albania,Waste,Hazardous,Unspecified,Heavy metals and dioxins,Waste_Hazardous_Unspecified_Heavy metals and dioxins,$/kg,4.93
+Albania,Waste,Hazardous,Unspecified,Disamenity,Waste_Hazardous_Unspecified_Disamenity,$/kg,4.59
+Albania,Waste,Hazardous,Unspecified,Waste GHGs,Waste_Hazardous_Unspecified_Waste GHGs,$/kg,380.28
+Albania,Waste,Non-Hazardous,Unspecified,Leachate,Waste_Non-Hazardous_Unspecified_Leachate,$/kg,0.33
+Albania,Waste,Non-Hazardous,Unspecified,Waste Air pollution,Waste_Non-Hazardous_Unspecified_Waste Air pollution,$/kg,0.00
+Albania,Waste,Non-Hazardous,Unspecified,Heavy metals and dioxins,Waste_Non-Hazardous_Unspecified_Heavy metals and dioxins,$/kg,0.00
+Albania,Waste,Non-Hazardous,Unspecified,Disamenity,Waste_Non-Hazardous_Unspecified_Disamenity,$/kg,152.67
+Albania,Waste,Non-Hazardous,Unspecified,Waste GHGs,Waste_Non-Hazardous_Unspecified_Waste GHGs,$/kg,187.00
+Albania,Air Pollution,PM2.5,Urban,Primary Health,Air Pollution_PM2.5_Urban_Primary Health,$/tonne,"8,965.10"
+Albania,Air Pollution,PM2.5,Peri-Urban,Primary Health,Air Pollution_PM2.5_Peri-Urban_Primary Health,$/tonne,"11,023.59"
+Albania,Air Pollution,PM2.5,Rural,Primary Health,Air Pollution_PM2.5_Rural_Primary Health,$/tonne,"5,019.20"
+Albania,Air Pollution,PM2.5,Transport,Primary Health,Air Pollution_PM2.5_Transport_Primary Health,$/tonne,"10,135.75"
+Albania,Air Pollution,PM2.5,N/A for PM2.5,Visibility,Air Pollution_PM2.5_N/A for PM2.5_Visibility,$/tonne,12.50
+Albania,Air Pollution,SOx,Urban,Primary Health,Air Pollution_SOx_Urban_Primary Health,$/tonne,"3,019.46"
+Albania,Air Pollution,SOx,Peri-Urban,Primary Health,Air Pollution_SOx_Peri-Urban_Primary Health,$/tonne,"3,771.14"
+Albania,Air Pollution,SOx,Rural,Primary Health,Air Pollution_SOx_Rural_Primary Health,$/tonne,"1,820.49"
+Albania,Air Pollution,SOx,Transport,Primary Health,Air Pollution_SOx_Transport_Primary Health,$/tonne,"3,424.09"
+Albania,Air Pollution,SOx,N/A for SOx,Visibility,Air Pollution_SOx_N/A for SOx_Visibility,$/tonne,36.36
+Albania,Air Pollution,NH3,Urban,Primary Health,Air Pollution_NH3_Urban_Primary Health,$/tonne,"2,689.53"
+Albania,Air Pollution,NH3,Peri-Urban,Primary Health,Air Pollution_NH3_Peri-Urban_Primary Health,$/tonne,"3,307.08"
+Albania,Air Pollution,NH3,Rural,Primary Health,Air Pollution_NH3_Rural_Primary Health,$/tonne,"1,505.76"
+Albania,Air Pollution,NH3,Transport,Primary Health,Air Pollution_NH3_Transport_Primary Health,$/tonne,"3,040.73"
+Albania,Air Pollution,NH3,N/A for NH3,Visibility,Air Pollution_NH3_N/A for NH3_Visibility,$/tonne,27.90
+Albania,Air Pollution,PM10,Urban,Primary Health,Air Pollution_PM10_Urban_Primary Health,$/tonne,46.78
+Albania,Air Pollution,PM10,Peri-Urban,Primary Health,Air Pollution_PM10_Peri-Urban_Primary Health,$/tonne,57.99
+Albania,Air Pollution,PM10,Rural,Primary Health,Air Pollution_PM10_Rural_Primary Health,$/tonne,31.93
+Albania,Air Pollution,PM10,Transport,Primary Health,Air Pollution_PM10_Transport_Primary Health,$/tonne,53.56
+Albania,Air Pollution,PM10,N/A for PM10,Visibility,Air Pollution_PM10_N/A for PM10_Visibility,$/tonne,41.25
+Albania,Air Pollution,NOx,Urban,Primary Health,Air Pollution_NOx_Urban_Primary Health,$/tonne,"1,249.37"
+Albania,Air Pollution,NOx,Peri-Urban,Primary Health,Air Pollution_NOx_Peri-Urban_Primary Health,$/tonne,"1,453.74"
+Albania,Air Pollution,NOx,Rural,Primary Health,Air Pollution_NOx_Rural_Primary Health,$/tonne,921.71
+Albania,Air Pollution,NOx,Transport,Primary Health,Air Pollution_NOx_Transport_Primary Health,$/tonne,957.88
+Albania,Air Pollution,NOx,N/A for NOx,Agriculture,Air Pollution_NOx_N/A for NOx_Agriculture,$/tonne,9.37
+Albania,Air Pollution,NOx,N/A for NOx,Visibility,Air Pollution_NOx_N/A for NOx_Visibility,$/tonne,5.28
+Albania,Air Pollution,VOC,N/A for VOC,Secondary Health,Air Pollution_VOC_N/A for VOC_Secondary Health,$/tonne,152.59
+Albania,Air Pollution,VOC,N/A for VOC,Visibility,Air Pollution_VOC_N/A for VOC_Visibility,$/tonne,5.01
+Albania,Air Pollution,VOC,N/A for VOC,Agriculture,Air Pollution_VOC_N/A for VOC_Agriculture,$/tonne,4.85
+Albania,Land Use,Wheat - conventional,N/A for LULC,Lost Ecosystem Services,Land Use_Wheat - conventional_N/A for LULC_Lost Ecosystem Services,$/ha,"5,393.77"
+Albania,Land Use,"Vegetables, fruit, nuts - conventional",N/A for LULC,Lost Ecosystem Services,"Land Use_Vegetables, fruit, nuts - conventional_N/A for LULC_Lost Ecosystem Services",$/ha,"5,532.57"
+Albania,Land Use,"Cereals, grains - conventional",N/A for LULC,Lost Ecosystem Services,"Land Use_Cereals, grains - conventional_N/A for LULC_Lost Ecosystem Services",$/ha,"5,393.77"
+Albania,Land Use,Oilseeds - conventional,N/A for LULC,Lost Ecosystem Services,Land Use_Oilseeds - conventional_N/A for LULC_Lost Ecosystem Services,$/ha,"5,393.77"
+Albania,Land Use,"Sugarcane, sugarbeet - conventional",N/A for LULC,Lost Ecosystem Services,"Land Use_Sugarcane, sugarbeet - conventional_N/A for LULC_Lost Ecosystem Services",$/ha,"5,393.77"
+Albania,Land Use,Plant-based fibers - conventional,N/A for LULC,Lost Ecosystem Services,Land Use_Plant-based fibers - conventional_N/A for LULC_Lost Ecosystem Services,$/ha,"5,393.77"
+Albania,Land Use,Other crops - conventional,N/A for LULC,Lost Ecosystem Services,Land Use_Other crops - conventional_N/A for LULC_Lost Ecosystem Services,$/ha,"5,393.77"
+Albania,Land Use,Other crops - organic,N/A for LULC,Lost Ecosystem Services,Land Use_Other crops - organic_N/A for LULC_Lost Ecosystem Services,$/ha,"4,847.32"
+Albania,Land Use,Other crops - sustainable,N/A for LULC,Lost Ecosystem Services,Land Use_Other crops - sustainable_N/A for LULC_Lost Ecosystem Services,$/ha,"4,414.96"
+Albania,Land Use,"Bovine, sheep, goats, horses - conventional",N/A for LULC,Lost Ecosystem Services,"Land Use_Bovine, sheep, goats, horses - conventional_N/A for LULC_Lost Ecosystem Services",$/ha,"5,331.72"
+Albania,Land Use,"Bovine, sheep, goats, horses - organic",N/A for LULC,Lost Ecosystem Services,"Land Use_Bovine, sheep, goats, horses - organic_N/A for LULC_Lost Ecosystem Services",$/ha,"5,074.47"
+Albania,Land Use,"Bovine, sheep, goats, horses - sustainable",N/A for LULC,Lost Ecosystem Services,"Land Use_Bovine, sheep, goats, horses - sustainable_N/A for LULC_Lost Ecosystem Services",$/ha,"4,971.57"
+Albania,Land Use,Cashmere - conventional,N/A for LULC,Lost Ecosystem Services,Land Use_Cashmere - conventional_N/A for LULC_Lost Ecosystem Services,$/ha,"5,588.97"
+Albania,Land Use,Cashmere - organic,N/A for LULC,Lost Ecosystem Services,Land Use_Cashmere - organic_N/A for LULC_Lost Ecosystem Services,$/ha,"5,074.47"
+Albania,Land Use,Cashmere - sustainable,N/A for LULC,Lost Ecosystem Services,Land Use_Cashmere - sustainable_N/A for LULC_Lost Ecosystem Services,$/ha,"4,971.57"
+Albania,Land Use,Forestry,N/A for LULC,Lost Ecosystem Services,Land Use_Forestry_N/A for LULC_Lost Ecosystem Services,$/ha,"3,547.48"
+Albania,Land Use,Paddy rice,N/A for LULC,Lost Ecosystem Services,Land Use_Paddy rice_N/A for LULC_Lost Ecosystem Services,$/ha,"4,726.72"
+Albania,Land Use,Paved,N/A for LULC,Lost Ecosystem Services,Land Use_Paved_N/A for LULC_Lost Ecosystem Services,$/ha,"7,092.08"
+Albania,Water Pollution,Phosphorus,N/A for this Category,Eutrophication,Water Pollution_Phosphorus_N/A for this Category_Eutrophication,$/kg,42.65
+Albania,Water Pollution,Nitrogen,N/A for this Category,Eutrophication,Water Pollution_Nitrogen_N/A for this Category_Eutrophication,$/kg,0.07
+Albania,Water Pollution,Ag(I),Freshwaster,Health,Water Pollution_Ag(I)_Freshwaster_Health,$/kg,131.02
+Albania,Water Pollution,Ag(I),Seawater,Health,Water Pollution_Ag(I)_Seawater_Health,$/kg,0.97
+Albania,Water Pollution,Ag(I),Unspecified,Health,Water Pollution_Ag(I)_Unspecified_Health,$/kg,113.10
+Albania,Water Pollution,As(III),Freshwaster,Health,Water Pollution_As(III)_Freshwaster_Health,$/kg,"2,179.00"
+Albania,Water Pollution,As(III),Seawater,Health,Water Pollution_As(III)_Seawater_Health,$/kg,172.79
+Albania,Water Pollution,As(III),Unspecified,Health,Water Pollution_As(III)_Unspecified_Health,$/kg,"1,902.61"
+Albania,Water Pollution,As(V),Freshwaster,Health,Water Pollution_As(V)_Freshwaster_Health,$/kg,"2,179.00"
+Albania,Water Pollution,As(V),Seawater,Health,Water Pollution_As(V)_Seawater_Health,$/kg,172.79
+Albania,Water Pollution,As(V),Unspecified,Health,Water Pollution_As(V)_Unspecified_Health,$/kg,"1,902.61"
+Albania,Water Pollution,Ba(II),Freshwaster,Health,Water Pollution_Ba(II)_Freshwaster_Health,$/kg,36.17
+Albania,Water Pollution,Ba(II),Seawater,Health,Water Pollution_Ba(II)_Seawater_Health,$/kg,13.01
+Albania,Water Pollution,Ba(II),Unspecified,Health,Water Pollution_Ba(II)_Unspecified_Health,$/kg,32.98
+Albania,Water Pollution,Be(II),Freshwaster,Health,Water Pollution_Be(II)_Freshwaster_Health,$/kg,0.06
+Albania,Water Pollution,Be(II),Seawater,Health,Water Pollution_Be(II)_Seawater_Health,$/kg,0.00
+Albania,Water Pollution,Be(II),Unspecified,Health,Water Pollution_Be(II)_Unspecified_Health,$/kg,0.05
+Albania,Water Pollution,Cd(II),Freshwaster,Health,Water Pollution_Cd(II)_Freshwaster_Health,$/kg,323.50
+Albania,Water Pollution,Cd(II),Seawater,Health,Water Pollution_Cd(II)_Seawater_Health,$/kg,46.92
+Albania,Water Pollution,Cd(II),Unspecified,Health,Water Pollution_Cd(II)_Unspecified_Health,$/kg,285.40
+Albania,Water Pollution,Co(II),Freshwaster,Health,Water Pollution_Co(II)_Freshwaster_Health,$/kg,0.00
+Albania,Water Pollution,Co(II),Seawater,Health,Water Pollution_Co(II)_Seawater_Health,$/kg,0.00
+Albania,Water Pollution,Co(II),Unspecified,Health,Water Pollution_Co(II)_Unspecified_Health,$/kg,0.00
+Albania,Water Pollution,Cr(III),Freshwaster,Health,Water Pollution_Cr(III)_Freshwaster_Health,$/kg,0.00
+Albania,Water Pollution,Cr(III),Seawater,Health,Water Pollution_Cr(III)_Seawater_Health,$/kg,0.00
+Albania,Water Pollution,Cr(III),Unspecified,Health,Water Pollution_Cr(III)_Unspecified_Health,$/kg,0.00
+Albania,Water Pollution,Cr(VI),Freshwaster,Health,Water Pollution_Cr(VI)_Freshwaster_Health,$/kg,"4,973.38"
+Albania,Water Pollution,Cr(VI),Seawater,Health,Water Pollution_Cr(VI)_Seawater_Health,$/kg,110.77
+Albania,Water Pollution,Cr(VI),Unspecified,Health,Water Pollution_Cr(VI)_Unspecified_Health,$/kg,"4,303.47"
+Albania,Water Pollution,Cu(II),Freshwaster,Health,Water Pollution_Cu(II)_Freshwaster_Health,$/kg,0.01
+Albania,Water Pollution,Cu(II),Seawater,Health,Water Pollution_Cu(II)_Seawater_Health,$/kg,0.00
+Albania,Water Pollution,Cu(II),Unspecified,Health,Water Pollution_Cu(II)_Unspecified_Health,$/kg,0.01
+Albania,Water Pollution,Hg(II),Freshwaster,Health,Water Pollution_Hg(II)_Freshwaster_Health,$/kg,239.46
+Albania,Water Pollution,Hg(II),Seawater,Health,Water Pollution_Hg(II)_Seawater_Health,$/kg,100.06
+Albania,Water Pollution,Hg(II),Unspecified,Health,Water Pollution_Hg(II)_Unspecified_Health,$/kg,220.25
+Albania,Water Pollution,Mo(VI),Freshwaster,Health,Water Pollution_Mo(VI)_Freshwaster_Health,$/kg,23.35
+Albania,Water Pollution,Mo(VI),Seawater,Health,Water Pollution_Mo(VI)_Seawater_Health,$/kg,0.08
+Albania,Water Pollution,Mo(VI),Unspecified,Health,Water Pollution_Mo(VI)_Unspecified_Health,$/kg,20.14
+Albania,Water Pollution,Ni(II),Freshwaster,Health,Water Pollution_Ni(II)_Freshwaster_Health,$/kg,101.08
+Albania,Water Pollution,Ni(II),Seawater,Health,Water Pollution_Ni(II)_Seawater_Health,$/kg,4.85
+Albania,Water Pollution,Ni(II),Unspecified,Health,Water Pollution_Ni(II)_Unspecified_Health,$/kg,87.82
+Albania,Water Pollution,Pb(II),Freshwaster,Health,Water Pollution_Pb(II)_Freshwaster_Health,$/kg,1.26
+Albania,Water Pollution,Pb(II),Seawater,Health,Water Pollution_Pb(II)_Seawater_Health,$/kg,0.05
+Albania,Water Pollution,Pb(II),Unspecified,Health,Water Pollution_Pb(II)_Unspecified_Health,$/kg,1.09
+Albania,Water Pollution,Sb(III),Freshwaster,Health,Water Pollution_Sb(III)_Freshwaster_Health,$/kg,73.41
+Albania,Water Pollution,Sb(III),Seawater,Health,Water Pollution_Sb(III)_Seawater_Health,$/kg,1.76
+Albania,Water Pollution,Sb(III),Unspecified,Health,Water Pollution_Sb(III)_Unspecified_Health,$/kg,63.54
+Albania,Water Pollution,Sb(V),Freshwaster,Health,Water Pollution_Sb(V)_Freshwaster_Health,$/kg,73.41
+Albania,Water Pollution,Sb(V),Seawater,Health,Water Pollution_Sb(V)_Seawater_Health,$/kg,1.76
+Albania,Water Pollution,Sb(V),Unspecified,Health,Water Pollution_Sb(V)_Unspecified_Health,$/kg,63.54
+Albania,Water Pollution,Se(IV),Freshwaster,Health,Water Pollution_Se(IV)_Freshwaster_Health,$/kg,0.00
+Albania,Water Pollution,Se(IV),Seawater,Health,Water Pollution_Se(IV)_Seawater_Health,$/kg,0.00
+Albania,Water Pollution,Se(IV),Unspecified,Health,Water Pollution_Se(IV)_Unspecified_Health,$/kg,0.00
+Albania,Water Pollution,Tl(I),Freshwaster,Health,Water Pollution_Tl(I)_Freshwaster_Health,$/kg,92.42
+Albania,Water Pollution,Tl(I),Seawater,Health,Water Pollution_Tl(I)_Seawater_Health,$/kg,5.25
+Albania,Water Pollution,Tl(I),Unspecified,Health,Water Pollution_Tl(I)_Unspecified_Health,$/kg,80.41
+Albania,Water Pollution,V(V),Freshwaster,Health,Water Pollution_V(V)_Freshwaster_Health,$/kg,17.02
+Albania,Water Pollution,V(V),Seawater,Health,Water Pollution_V(V)_Seawater_Health,$/kg,1.26
+Albania,Water Pollution,V(V),Unspecified,Health,Water Pollution_V(V)_Unspecified_Health,$/kg,14.85
+Albania,Water Pollution,Zn(II),Freshwaster,Health,Water Pollution_Zn(II)_Freshwaster_Health,$/kg,3.51
+Albania,Water Pollution,Zn(II),Seawater,Health,Water Pollution_Zn(II)_Seawater_Health,$/kg,2.43
+Albania,Water Pollution,Zn(II),Unspecified,Health,Water Pollution_Zn(II)_Unspecified_Health,$/kg,3.36
+Albania,Water Pollution,"1,2-dichlorobenzene",Freshwaster,Health,"Water Pollution_1,2-dichlorobenzene_Freshwaster_Health",$/kg,0.00
+Albania,Water Pollution,"1,2-dichlorobenzene",Seawater,Health,"Water Pollution_1,2-dichlorobenzene_Seawater_Health",$/kg,0.00
+Albania,Water Pollution,"1,2-dichlorobenzene",Unspecified,Health,"Water Pollution_1,2-dichlorobenzene_Unspecified_Health",$/kg,0.00
+Albania,Water Pollution,"1,2-dichloroethane",Freshwaster,Health,"Water Pollution_1,2-dichloroethane_Freshwaster_Health",$/kg,0.58
+Albania,Water Pollution,"1,2-dichloroethane",Seawater,Health,"Water Pollution_1,2-dichloroethane_Seawater_Health",$/kg,0.05
+Albania,Water Pollution,"1,2-dichloroethane",Unspecified,Health,"Water Pollution_1,2-dichloroethane_Unspecified_Health",$/kg,0.50
+Albania,Water Pollution,"1,2-DIMETHYL-5-NITRO-1H-IMIDAZOLE",Freshwaster,Health,"Water Pollution_1,2-DIMETHYL-5-NITRO-1H-IMIDAZOLE_Freshwaster_Health",$/kg,0.46
+Albania,Water Pollution,"1,2-DIMETHYL-5-NITRO-1H-IMIDAZOLE",Seawater,Health,"Water Pollution_1,2-DIMETHYL-5-NITRO-1H-IMIDAZOLE_Seawater_Health",$/kg,0.00
+Albania,Water Pollution,"1,2-DIMETHYL-5-NITRO-1H-IMIDAZOLE",Unspecified,Health,"Water Pollution_1,2-DIMETHYL-5-NITRO-1H-IMIDAZOLE_Unspecified_Health",$/kg,0.40
+Albania,Water Pollution,"1,3-Dichloropropene",Freshwaster,Health,"Water Pollution_1,3-Dichloropropene_Freshwaster_Health",$/kg,3.63
+Albania,Water Pollution,"1,3-Dichloropropene",Seawater,Health,"Water Pollution_1,3-Dichloropropene_Seawater_Health",$/kg,1.22
+Albania,Water Pollution,"1,3-Dichloropropene",Unspecified,Health,"Water Pollution_1,3-Dichloropropene_Unspecified_Health",$/kg,3.29
+Albania,Water Pollution,"1,4-dichlorobenzene",Freshwaster,Health,"Water Pollution_1,4-dichlorobenzene_Freshwaster_Health",$/kg,0.04
+Albania,Water Pollution,"1,4-dichlorobenzene",Seawater,Health,"Water Pollution_1,4-dichlorobenzene_Seawater_Health",$/kg,0.01
+Albania,Water Pollution,"1,4-dichlorobenzene",Unspecified,Health,"Water Pollution_1,4-dichlorobenzene_Unspecified_Health",$/kg,0.04
+Albania,Water Pollution,"2-(2,4-dichlorophenoxy)acetic acid",Freshwaster,Health,"Water Pollution_2-(2,4-dichlorophenoxy)acetic acid_Freshwaster_Health",$/kg,0.07
+Albania,Water Pollution,"2-(2,4-dichlorophenoxy)acetic acid",Seawater,Health,"Water Pollution_2-(2,4-dichlorophenoxy)acetic acid_Seawater_Health",$/kg,0.00
+Albania,Water Pollution,"2-(2,4-dichlorophenoxy)acetic acid",Unspecified,Health,"Water Pollution_2-(2,4-dichlorophenoxy)acetic acid_Unspecified_Health",$/kg,0.06
+Albania,Water Pollution,"2,4,6-trichlorophenol",Freshwaster,Health,"Water Pollution_2,4,6-trichlorophenol_Freshwaster_Health",$/kg,0.03
+Albania,Water Pollution,"2,4,6-trichlorophenol",Seawater,Health,"Water Pollution_2,4,6-trichlorophenol_Seawater_Health",$/kg,0.00
+Albania,Water Pollution,"2,4,6-trichlorophenol",Unspecified,Health,"Water Pollution_2,4,6-trichlorophenol_Unspecified_Health",$/kg,0.03
+Albania,Water Pollution,2-CHLOROPHENOL,Freshwaster,Health,Water Pollution_2-CHLOROPHENOL_Freshwaster_Health,$/kg,0.03
+Albania,Water Pollution,2-CHLOROPHENOL,Seawater,Health,Water Pollution_2-CHLOROPHENOL_Seawater_Health,$/kg,0.00
+Albania,Water Pollution,2-CHLOROPHENOL,Unspecified,Health,Water Pollution_2-CHLOROPHENOL_Unspecified_Health,$/kg,0.03
+Albania,Water Pollution,3-Methylcholanthrene,Freshwaster,Health,Water Pollution_3-Methylcholanthrene_Freshwaster_Health,$/kg,46.91
+Albania,Water Pollution,3-Methylcholanthrene,Seawater,Health,Water Pollution_3-Methylcholanthrene_Seawater_Health,$/kg,9.82
+Albania,Water Pollution,3-Methylcholanthrene,Unspecified,Health,Water Pollution_3-Methylcholanthrene_Unspecified_Health,$/kg,41.80
+Albania,Water Pollution,4-CHLOROANILINE,Freshwaster,Health,Water Pollution_4-CHLOROANILINE_Freshwaster_Health,$/kg,0.01
+Albania,Water Pollution,4-CHLOROANILINE,Seawater,Health,Water Pollution_4-CHLOROANILINE_Seawater_Health,$/kg,0.00
+Albania,Water Pollution,4-CHLOROANILINE,Unspecified,Health,Water Pollution_4-CHLOROANILINE_Unspecified_Health,$/kg,0.01
+Albania,Water Pollution,"7,12-Dimethylbenz(a)anthracene",Freshwaster,Health,"Water Pollution_7,12-Dimethylbenz(a)anthracene_Freshwaster_Health",$/kg,581.29
+Albania,Water Pollution,"7,12-Dimethylbenz(a)anthracene",Seawater,Health,"Water Pollution_7,12-Dimethylbenz(a)anthracene_Seawater_Health",$/kg,112.17
+Albania,Water Pollution,"7,12-Dimethylbenz(a)anthracene",Unspecified,Health,"Water Pollution_7,12-Dimethylbenz(a)anthracene_Unspecified_Health",$/kg,516.66
+Albania,Water Pollution,Acenapthene,Freshwaster,Health,Water Pollution_Acenapthene_Freshwaster_Health,$/kg,0.50
+Albania,Water Pollution,Acenapthene,Seawater,Health,Water Pollution_Acenapthene_Seawater_Health,$/kg,0.07
+Albania,Water Pollution,Acenapthene,Unspecified,Health,Water Pollution_Acenapthene_Unspecified_Health,$/kg,0.44
+Albania,Water Pollution,ACEPHATE,Freshwaster,Health,Water Pollution_ACEPHATE_Freshwaster_Health,$/kg,13.68
+Albania,Water Pollution,ACEPHATE,Seawater,Health,Water Pollution_ACEPHATE_Seawater_Health,$/kg,0.00
+Albania,Water Pollution,ACEPHATE,Unspecified,Health,Water Pollution_ACEPHATE_Unspecified_Health,$/kg,11.80
+Albania,Water Pollution,"ACETAMIDE,",Freshwaster,Health,"Water Pollution_ACETAMIDE,_Freshwaster_Health",$/kg,0.01
+Albania,Water Pollution,"ACETAMIDE,",Seawater,Health,"Water Pollution_ACETAMIDE,_Seawater_Health",$/kg,0.00
+Albania,Water Pollution,"ACETAMIDE,",Unspecified,Health,"Water Pollution_ACETAMIDE,_Unspecified_Health",$/kg,0.01
+Albania,Water Pollution,Albuterol,Freshwaster,Health,Water Pollution_Albuterol_Freshwaster_Health,$/kg,0.07
+Albania,Water Pollution,Albuterol,Seawater,Health,Water Pollution_Albuterol_Seawater_Health,$/kg,0.00
+Albania,Water Pollution,Albuterol,Unspecified,Health,Water Pollution_Albuterol_Unspecified_Health,$/kg,0.06
+Albania,Water Pollution,Aldicarb,Freshwaster,Health,Water Pollution_Aldicarb_Freshwaster_Health,$/kg,2.00
+Albania,Water Pollution,Aldicarb,Seawater,Health,Water Pollution_Aldicarb_Seawater_Health,$/kg,0.00
+Albania,Water Pollution,Aldicarb,Unspecified,Health,Water Pollution_Aldicarb_Unspecified_Health,$/kg,1.73
+Albania,Water Pollution,aniline,Freshwaster,Health,Water Pollution_aniline_Freshwaster_Health,$/kg,0.07
+Albania,Water Pollution,aniline,Seawater,Health,Water Pollution_aniline_Seawater_Health,$/kg,0.00
+Albania,Water Pollution,aniline,Unspecified,Health,Water Pollution_aniline_Unspecified_Health,$/kg,0.06
+Albania,Water Pollution,anthracene,Freshwaster,Health,Water Pollution_anthracene_Freshwaster_Health,$/kg,23.46
+Albania,Water Pollution,anthracene,Seawater,Health,Water Pollution_anthracene_Seawater_Health,$/kg,7.85
+Albania,Water Pollution,anthracene,Unspecified,Health,Water Pollution_anthracene_Unspecified_Health,$/kg,21.31
+Albania,Water Pollution,ANTIPYRINE,Freshwaster,Health,Water Pollution_ANTIPYRINE_Freshwaster_Health,$/kg,0.01
+Albania,Water Pollution,ANTIPYRINE,Seawater,Health,Water Pollution_ANTIPYRINE_Seawater_Health,$/kg,0.00
+Albania,Water Pollution,ANTIPYRINE,Unspecified,Health,Water Pollution_ANTIPYRINE_Unspecified_Health,$/kg,0.01
+Albania,Water Pollution,Atrazine,Freshwaster,Health,Water Pollution_Atrazine_Freshwaster_Health,$/kg,0.43
+Albania,Water Pollution,Atrazine,Seawater,Health,Water Pollution_Atrazine_Seawater_Health,$/kg,0.00
+Albania,Water Pollution,Atrazine,Unspecified,Health,Water Pollution_Atrazine_Unspecified_Health,$/kg,0.37
+Albania,Water Pollution,benzene,Freshwaster,Health,Water Pollution_benzene_Freshwaster_Health,$/kg,0.08
+Albania,Water Pollution,benzene,Seawater,Health,Water Pollution_benzene_Seawater_Health,$/kg,0.01
+Albania,Water Pollution,benzene,Unspecified,Health,Water Pollution_benzene_Unspecified_Health,$/kg,0.07
+Albania,Water Pollution,Benzidine,Freshwaster,Health,Water Pollution_Benzidine_Freshwaster_Health,$/kg,856.77
+Albania,Water Pollution,Benzidine,Seawater,Health,Water Pollution_Benzidine_Seawater_Health,$/kg,0.09
+Albania,Water Pollution,Benzidine,Unspecified,Health,Water Pollution_Benzidine_Unspecified_Health,$/kg,738.75
+Albania,Water Pollution,benzo[a]pyrene,Freshwaster,Health,Water Pollution_benzo[a]pyrene_Freshwaster_Health,$/kg,730.27
+Albania,Water Pollution,benzo[a]pyrene,Seawater,Health,Water Pollution_benzo[a]pyrene_Seawater_Health,$/kg,61.49
+Albania,Water Pollution,benzo[a]pyrene,Unspecified,Health,Water Pollution_benzo[a]pyrene_Unspecified_Health,$/kg,638.13
+Albania,Water Pollution,Bezafibrate,Freshwaster,Health,Water Pollution_Bezafibrate_Freshwaster_Health,$/kg,0.05
+Albania,Water Pollution,Bezafibrate,Seawater,Health,Water Pollution_Bezafibrate_Seawater_Health,$/kg,0.00
+Albania,Water Pollution,Bezafibrate,Unspecified,Health,Water Pollution_Bezafibrate_Unspecified_Health,$/kg,0.04
+Albania,Water Pollution,butyl benzyl phthalate ,Freshwaster,Health,Water Pollution_butyl benzyl phthalate _Freshwaster_Health,$/kg,0.01
+Albania,Water Pollution,butyl benzyl phthalate ,Seawater,Health,Water Pollution_butyl benzyl phthalate _Seawater_Health,$/kg,0.00
+Albania,Water Pollution,butyl benzyl phthalate,Unspecified,Health,Water Pollution_butyl benzyl phthalate_Unspecified_Health,$/kg,0.00
+Albania,Water Pollution,Carbamazepine,Freshwaster,Health,Water Pollution_Carbamazepine_Freshwaster_Health,$/kg,0.04
+Albania,Water Pollution,Carbamazepine,Seawater,Health,Water Pollution_Carbamazepine_Seawater_Health,$/kg,0.00
+Albania,Water Pollution,Carbamazepine,Unspecified,Health,Water Pollution_Carbamazepine_Unspecified_Health,$/kg,0.03
+Albania,Water Pollution,chlorobenzene,Freshwaster,Health,Water Pollution_chlorobenzene_Freshwaster_Health,$/kg,0.02
+Albania,Water Pollution,chlorobenzene,Seawater,Health,Water Pollution_chlorobenzene_Seawater_Health,$/kg,0.00
+Albania,Water Pollution,chlorobenzene,Unspecified,Health,Water Pollution_chlorobenzene_Unspecified_Health,$/kg,0.02
+Albania,Water Pollution,Chloropyrifos,Freshwaster,Health,Water Pollution_Chloropyrifos_Freshwaster_Health,$/kg,2.42
+Albania,Water Pollution,Chloropyrifos,Seawater,Health,Water Pollution_Chloropyrifos_Seawater_Health,$/kg,0.22
+Albania,Water Pollution,Chloropyrifos,Unspecified,Health,Water Pollution_Chloropyrifos_Unspecified_Health,$/kg,2.12
+Albania,Water Pollution,Chlorothalonil,Freshwaster,Health,Water Pollution_Chlorothalonil_Freshwaster_Health,$/kg,0.11
+Albania,Water Pollution,Chlorothalonil,Seawater,Health,Water Pollution_Chlorothalonil_Seawater_Health,$/kg,0.00
+Albania,Water Pollution,Chlorothalonil,Unspecified,Health,Water Pollution_Chlorothalonil_Unspecified_Health,$/kg,0.10
+Albania,Water Pollution,CYANAZINE,Freshwaster,Health,Water Pollution_CYANAZINE_Freshwaster_Health,$/kg,5.23
+Albania,Water Pollution,CYANAZINE,Seawater,Health,Water Pollution_CYANAZINE_Seawater_Health,$/kg,0.00
+Albania,Water Pollution,CYANAZINE,Unspecified,Health,Water Pollution_CYANAZINE_Unspecified_Health,$/kg,4.51
+Albania,Water Pollution,CYPERMETHRIN,Freshwaster,Health,Water Pollution_CYPERMETHRIN_Freshwaster_Health,$/kg,0.26
+Albania,Water Pollution,CYPERMETHRIN,Seawater,Health,Water Pollution_CYPERMETHRIN_Seawater_Health,$/kg,0.00
+Albania,Water Pollution,CYPERMETHRIN,Unspecified,Health,Water Pollution_CYPERMETHRIN_Unspecified_Health,$/kg,0.22
+Albania,Water Pollution,DEF,Freshwaster,Health,Water Pollution_DEF_Freshwaster_Health,$/kg,0.67
+Albania,Water Pollution,DEF,Seawater,Health,Water Pollution_DEF_Seawater_Health,$/kg,0.01
+Albania,Water Pollution,DEF,Unspecified,Health,Water Pollution_DEF_Unspecified_Health,$/kg,0.58
+Albania,Water Pollution,di-(2-ethylhexyl)-phthalate (DEHP),Freshwaster,Health,Water Pollution_di-(2-ethylhexyl)-phthalate (DEHP)_Freshwaster_Health,$/kg,0.05
+Albania,Water Pollution,di-(2-ethylhexyl)-phthalate (DEHP),Seawater,Health,Water Pollution_di-(2-ethylhexyl)-phthalate (DEHP)_Seawater_Health,$/kg,0.00
+Albania,Water Pollution,di-(2-ethylhexyl)-phthalate (DEHP),Unspecified,Health,Water Pollution_di-(2-ethylhexyl)-phthalate (DEHP)_Unspecified_Health,$/kg,0.04
+Albania,Water Pollution,Diazinon,Freshwaster,Health,Water Pollution_Diazinon_Freshwaster_Health,$/kg,2.02
+Albania,Water Pollution,Diazinon,Seawater,Health,Water Pollution_Diazinon_Seawater_Health,$/kg,0.01
+Albania,Water Pollution,Diazinon,Unspecified,Health,Water Pollution_Diazinon_Unspecified_Health,$/kg,1.74
+Albania,Water Pollution,"Dibenz(a,h)anthracene",Freshwaster,Health,"Water Pollution_Dibenz(a,h)anthracene_Freshwaster_Health",$/kg,"2,384.95"
+Albania,Water Pollution,"Dibenz(a,h)anthracene",Seawater,Health,"Water Pollution_Dibenz(a,h)anthracene_Seawater_Health",$/kg,205.69
+Albania,Water Pollution,"Dibenz(a,h)anthracene",Unspecified,Health,"Water Pollution_Dibenz(a,h)anthracene_Unspecified_Health",$/kg,"2,084.71"
+Albania,Water Pollution,Dicamba,Freshwaster,Health,Water Pollution_Dicamba_Freshwaster_Health,$/kg,0.04
+Albania,Water Pollution,Dicamba,Seawater,Health,Water Pollution_Dicamba_Seawater_Health,$/kg,0.00
+Albania,Water Pollution,Dicamba,Unspecified,Health,Water Pollution_Dicamba_Unspecified_Health,$/kg,0.04
+Albania,Water Pollution,dichloromethane/methylenechloride (CH2Cl2) ,Freshwaster,Health,Water Pollution_dichloromethane/methylenechloride (CH2Cl2) _Freshwaster_Health,$/kg,0.04
+Albania,Water Pollution,dichloromethane/methylenechloride (CH2Cl2) ,Seawater,Health,Water Pollution_dichloromethane/methylenechloride (CH2Cl2) _Seawater_Health,$/kg,0.01
+Albania,Water Pollution,dichloromethane/methylenechloride (CH2Cl2) ,Unspecified,Health,Water Pollution_dichloromethane/methylenechloride (CH2Cl2) _Unspecified_Health,$/kg,0.03
+Albania,Water Pollution,Diclofenac,Freshwaster,Health,Water Pollution_Diclofenac_Freshwaster_Health,$/kg,0.29
+Albania,Water Pollution,Diclofenac,Seawater,Health,Water Pollution_Diclofenac_Seawater_Health,$/kg,0.01
+Albania,Water Pollution,Diclofenac,Unspecified,Health,Water Pollution_Diclofenac_Unspecified_Health,$/kg,0.25
+Albania,Water Pollution,Dicrotophos,Freshwaster,Health,Water Pollution_Dicrotophos_Freshwaster_Health,$/kg,0.84
+Albania,Water Pollution,Dicrotophos,Seawater,Health,Water Pollution_Dicrotophos_Seawater_Health,$/kg,0.00
+Albania,Water Pollution,Dicrotophos,Unspecified,Health,Water Pollution_Dicrotophos_Unspecified_Health,$/kg,0.72
+Albania,Water Pollution,Ethephon,Freshwaster,Health,Water Pollution_Ethephon_Freshwaster_Health,$/kg,0.10
+Albania,Water Pollution,Ethephon,Seawater,Health,Water Pollution_Ethephon_Seawater_Health,$/kg,0.00
+Albania,Water Pollution,Ethephon,Unspecified,Health,Water Pollution_Ethephon_Unspecified_Health,$/kg,0.09
+Albania,Water Pollution,fluoranthene,Freshwaster,Health,Water Pollution_fluoranthene_Freshwaster_Health,$/kg,4.69
+Albania,Water Pollution,fluoranthene,Seawater,Health,Water Pollution_fluoranthene_Seawater_Health,$/kg,1.57
+Albania,Water Pollution,fluoranthene,Unspecified,Health,Water Pollution_fluoranthene_Unspecified_Health,$/kg,4.26
+Albania,Water Pollution,fluorene,Freshwaster,Health,Water Pollution_fluorene_Freshwaster_Health,$/kg,0.66
+Albania,Water Pollution,fluorene,Seawater,Health,Water Pollution_fluorene_Seawater_Health,$/kg,0.11
+Albania,Water Pollution,fluorene,Unspecified,Health,Water Pollution_fluorene_Unspecified_Health,$/kg,0.58
+Albania,Water Pollution,Fluvastatin,Freshwaster,Health,Water Pollution_Fluvastatin_Freshwaster_Health,$/kg,0.08
+Albania,Water Pollution,Fluvastatin,Seawater,Health,Water Pollution_Fluvastatin_Seawater_Health,$/kg,0.00
+Albania,Water Pollution,Fluvastatin,Unspecified,Health,Water Pollution_Fluvastatin_Unspecified_Health,$/kg,0.07
+Albania,Water Pollution,FUROSEMIDE,Freshwaster,Health,Water Pollution_FUROSEMIDE_Freshwaster_Health,$/kg,0.03
+Albania,Water Pollution,FUROSEMIDE,Seawater,Health,Water Pollution_FUROSEMIDE_Seawater_Health,$/kg,0.00
+Albania,Water Pollution,FUROSEMIDE,Unspecified,Health,Water Pollution_FUROSEMIDE_Unspecified_Health,$/kg,0.03
+Albania,Water Pollution,Gemfibrozil,Freshwaster,Health,Water Pollution_Gemfibrozil_Freshwaster_Health,$/kg,0.04
+Albania,Water Pollution,Gemfibrozil,Seawater,Health,Water Pollution_Gemfibrozil_Seawater_Health,$/kg,0.00
+Albania,Water Pollution,Gemfibrozil,Unspecified,Health,Water Pollution_Gemfibrozil_Unspecified_Health,$/kg,0.03
+Albania,Water Pollution,GLUFOSINATE-AMMONIUM,Freshwaster,Health,Water Pollution_GLUFOSINATE-AMMONIUM_Freshwaster_Health,$/kg,0.04
+Albania,Water Pollution,GLUFOSINATE-AMMONIUM,Seawater,Health,Water Pollution_GLUFOSINATE-AMMONIUM_Seawater_Health,$/kg,0.00
+Albania,Water Pollution,GLUFOSINATE-AMMONIUM,Unspecified,Health,Water Pollution_GLUFOSINATE-AMMONIUM_Unspecified_Health,$/kg,0.04
+Albania,Water Pollution,Glyphosate,Freshwaster,Health,Water Pollution_Glyphosate_Freshwaster_Health,$/kg,0.00
+Albania,Water Pollution,Glyphosate,Seawater,Health,Water Pollution_Glyphosate_Seawater_Health,$/kg,0.00
+Albania,Water Pollution,Glyphosate,Unspecified,Health,Water Pollution_Glyphosate_Unspecified_Health,$/kg,0.00
+Albania,Water Pollution,INDOMETHACIN,Freshwaster,Health,Water Pollution_INDOMETHACIN_Freshwaster_Health,$/kg,7.64
+Albania,Water Pollution,INDOMETHACIN,Seawater,Health,Water Pollution_INDOMETHACIN_Seawater_Health,$/kg,0.13
+Albania,Water Pollution,INDOMETHACIN,Unspecified,Health,Water Pollution_INDOMETHACIN_Unspecified_Health,$/kg,6.61
+Albania,Water Pollution,Iopromide,Freshwaster,Health,Water Pollution_Iopromide_Freshwaster_Health,$/kg,0.01
+Albania,Water Pollution,Iopromide,Seawater,Health,Water Pollution_Iopromide_Seawater_Health,$/kg,0.00
+Albania,Water Pollution,Iopromide,Unspecified,Health,Water Pollution_Iopromide_Unspecified_Health,$/kg,0.00
+Albania,Water Pollution,Malathion,Freshwaster,Health,Water Pollution_Malathion_Freshwaster_Health,$/kg,0.00
+Albania,Water Pollution,Malathion,Seawater,Health,Water Pollution_Malathion_Seawater_Health,$/kg,0.00
+Albania,Water Pollution,Malathion,Unspecified,Health,Water Pollution_Malathion_Unspecified_Health,$/kg,0.00
+Albania,Water Pollution,Mancozeb,Freshwaster,Health,Water Pollution_Mancozeb_Freshwaster_Health,$/kg,0.04
+Albania,Water Pollution,Mancozeb,Seawater,Health,Water Pollution_Mancozeb_Seawater_Health,$/kg,0.00
+Albania,Water Pollution,Mancozeb,Unspecified,Health,Water Pollution_Mancozeb_Unspecified_Health,$/kg,0.04
+Albania,Water Pollution,Methyl Bromide,Freshwaster,Health,Water Pollution_Methyl Bromide_Freshwaster_Health,$/kg,0.29
+Albania,Water Pollution,Methyl Bromide,Seawater,Health,Water Pollution_Methyl Bromide_Seawater_Health,$/kg,0.08
+Albania,Water Pollution,Methyl Bromide,Unspecified,Health,Water Pollution_Methyl Bromide_Unspecified_Health,$/kg,0.26
+Albania,Water Pollution,Metolachlor,Freshwaster,Health,Water Pollution_Metolachlor_Freshwaster_Health,$/kg,0.02
+Albania,Water Pollution,Metolachlor,Seawater,Health,Water Pollution_Metolachlor_Seawater_Health,$/kg,0.00
+Albania,Water Pollution,Metolachlor,Unspecified,Health,Water Pollution_Metolachlor_Unspecified_Health,$/kg,0.02
+Albania,Water Pollution,Metoprolol,Freshwaster,Health,Water Pollution_Metoprolol_Freshwaster_Health,$/kg,0.01
+Albania,Water Pollution,Metoprolol,Seawater,Health,Water Pollution_Metoprolol_Seawater_Health,$/kg,0.00
+Albania,Water Pollution,Metoprolol,Unspecified,Health,Water Pollution_Metoprolol_Unspecified_Health,$/kg,0.01
+Albania,Water Pollution,METRONIDAZOLE,Freshwaster,Health,Water Pollution_METRONIDAZOLE_Freshwaster_Health,$/kg,0.03
+Albania,Water Pollution,METRONIDAZOLE,Seawater,Health,Water Pollution_METRONIDAZOLE_Seawater_Health,$/kg,0.00
+Albania,Water Pollution,METRONIDAZOLE,Unspecified,Health,Water Pollution_METRONIDAZOLE_Unspecified_Health,$/kg,0.02
+Albania,Water Pollution,Naled,Freshwaster,Health,Water Pollution_Naled_Freshwaster_Health,$/kg,1.03
+Albania,Water Pollution,Naled,Seawater,Health,Water Pollution_Naled_Seawater_Health,$/kg,0.04
+Albania,Water Pollution,Naled,Unspecified,Health,Water Pollution_Naled_Unspecified_Health,$/kg,0.90
+Albania,Water Pollution,NALIDIXIC ACID,Freshwaster,Health,Water Pollution_NALIDIXIC ACID_Freshwaster_Health,$/kg,0.04
+Albania,Water Pollution,NALIDIXIC ACID,Seawater,Health,Water Pollution_NALIDIXIC ACID_Seawater_Health,$/kg,0.00
+Albania,Water Pollution,NALIDIXIC ACID,Unspecified,Health,Water Pollution_NALIDIXIC ACID_Unspecified_Health,$/kg,0.03
+Albania,Water Pollution,naphthalene,Freshwaster,Health,Water Pollution_naphthalene_Freshwaster_Health,$/kg,0.06
+Albania,Water Pollution,naphthalene,Seawater,Health,Water Pollution_naphthalene_Seawater_Health,$/kg,0.00
+Albania,Water Pollution,naphthalene,Unspecified,Health,Water Pollution_naphthalene_Unspecified_Health,$/kg,0.05
+Albania,Water Pollution,OXOLINIC ACID,Freshwaster,Health,Water Pollution_OXOLINIC ACID_Freshwaster_Health,$/kg,0.05
+Albania,Water Pollution,OXOLINIC ACID,Seawater,Health,Water Pollution_OXOLINIC ACID_Seawater_Health,$/kg,0.00
+Albania,Water Pollution,OXOLINIC ACID,Unspecified,Health,Water Pollution_OXOLINIC ACID_Unspecified_Health,$/kg,0.04
+Albania,Water Pollution,Paraquat,Freshwaster,Health,Water Pollution_Paraquat_Freshwaster_Health,$/kg,0.12
+Albania,Water Pollution,Paraquat,Seawater,Health,Water Pollution_Paraquat_Seawater_Health,$/kg,0.00
+Albania,Water Pollution,Paraquat,Unspecified,Health,Water Pollution_Paraquat_Unspecified_Health,$/kg,0.10
+Albania,Water Pollution,Parathion-methyl,Freshwaster,Health,Water Pollution_Parathion-methyl_Freshwaster_Health,$/kg,0.83
+Albania,Water Pollution,Parathion-methyl,Seawater,Health,Water Pollution_Parathion-methyl_Seawater_Health,$/kg,0.00
+Albania,Water Pollution,Parathion-methyl,Unspecified,Health,Water Pollution_Parathion-methyl_Unspecified_Health,$/kg,0.71
+Albania,Water Pollution,Pendimethalin,Freshwaster,Health,Water Pollution_Pendimethalin_Freshwaster_Health,$/kg,0.01
+Albania,Water Pollution,Pendimethalin,Seawater,Health,Water Pollution_Pendimethalin_Seawater_Health,$/kg,0.00
+Albania,Water Pollution,Pendimethalin,Unspecified,Health,Water Pollution_Pendimethalin_Unspecified_Health,$/kg,0.01
+Albania,Water Pollution,pentachlorophenol,Freshwaster,Health,Water Pollution_pentachlorophenol_Freshwaster_Health,$/kg,0.96
+Albania,Water Pollution,pentachlorophenol,Seawater,Health,Water Pollution_pentachlorophenol_Seawater_Health,$/kg,0.02
+Albania,Water Pollution,pentachlorophenol,Unspecified,Health,Water Pollution_pentachlorophenol_Unspecified_Health,$/kg,0.83
+Albania,Water Pollution,Phorate,Freshwaster,Health,Water Pollution_Phorate_Freshwaster_Health,$/kg,0.75
+Albania,Water Pollution,Phorate,Seawater,Health,Water Pollution_Phorate_Seawater_Health,$/kg,0.04
+Albania,Water Pollution,Phorate,Unspecified,Health,Water Pollution_Phorate_Unspecified_Health,$/kg,0.65
+Albania,Water Pollution,Propanil,Freshwaster,Health,Water Pollution_Propanil_Freshwaster_Health,$/kg,0.06
+Albania,Water Pollution,Propanil,Seawater,Health,Water Pollution_Propanil_Seawater_Health,$/kg,0.00
+Albania,Water Pollution,Propanil,Unspecified,Health,Water Pollution_Propanil_Unspecified_Health,$/kg,0.06
+Albania,Water Pollution,pyrene,Freshwaster,Health,Water Pollution_pyrene_Freshwaster_Health,$/kg,6.41
+Albania,Water Pollution,pyrene,Seawater,Health,Water Pollution_pyrene_Seawater_Health,$/kg,2.77
+Albania,Water Pollution,pyrene,Unspecified,Health,Water Pollution_pyrene_Unspecified_Health,$/kg,5.91
+Albania,Water Pollution,"Pyrene, 1-nitro-",Freshwaster,Health,"Water Pollution_Pyrene, 1-nitro-_Freshwaster_Health",$/kg,12.85
+Albania,Water Pollution,"Pyrene, 1-nitro-",Seawater,Health,"Water Pollution_Pyrene, 1-nitro-_Seawater_Health",$/kg,1.18
+Albania,Water Pollution,"Pyrene, 1-nitro-",Unspecified,Health,"Water Pollution_Pyrene, 1-nitro-_Unspecified_Health",$/kg,11.25
+Albania,Water Pollution,Sulfamethoxazole,Freshwaster,Health,Water Pollution_Sulfamethoxazole_Freshwaster_Health,$/kg,0.01
+Albania,Water Pollution,Sulfamethoxazole,Seawater,Health,Water Pollution_Sulfamethoxazole_Seawater_Health,$/kg,0.00
+Albania,Water Pollution,Sulfamethoxazole,Unspecified,Health,Water Pollution_Sulfamethoxazole_Unspecified_Health,$/kg,0.01
+Albania,Water Pollution,Terbutaline,Freshwaster,Health,Water Pollution_Terbutaline_Freshwaster_Health,$/kg,0.01
+Albania,Water Pollution,Terbutaline,Seawater,Health,Water Pollution_Terbutaline_Seawater_Health,$/kg,0.00
+Albania,Water Pollution,Terbutaline,Unspecified,Health,Water Pollution_Terbutaline_Unspecified_Health,$/kg,0.01
+Albania,Water Pollution,tetrachloroethylene,Freshwaster,Health,Water Pollution_tetrachloroethylene_Freshwaster_Health,$/kg,0.21
+Albania,Water Pollution,tetrachloroethylene,Seawater,Health,Water Pollution_tetrachloroethylene_Seawater_Health,$/kg,0.04
+Albania,Water Pollution,tetrachloroethylene,Unspecified,Health,Water Pollution_tetrachloroethylene_Unspecified_Health,$/kg,0.18
+Albania,Water Pollution,THIABENDAZOLE,Freshwaster,Health,Water Pollution_THIABENDAZOLE_Freshwaster_Health,$/kg,0.02
+Albania,Water Pollution,THIABENDAZOLE,Seawater,Health,Water Pollution_THIABENDAZOLE_Seawater_Health,$/kg,0.00
+Albania,Water Pollution,THIABENDAZOLE,Unspecified,Health,Water Pollution_THIABENDAZOLE_Unspecified_Health,$/kg,0.02
+Albania,Water Pollution,TRI-2-CHLOROETHYL PHOSPHATE,Freshwaster,Health,Water Pollution_TRI-2-CHLOROETHYL PHOSPHATE_Freshwaster_Health,$/kg,0.14
+Albania,Water Pollution,TRI-2-CHLOROETHYL PHOSPHATE,Seawater,Health,Water Pollution_TRI-2-CHLOROETHYL PHOSPHATE_Seawater_Health,$/kg,0.00
+Albania,Water Pollution,TRI-2-CHLOROETHYL PHOSPHATE,Unspecified,Health,Water Pollution_TRI-2-CHLOROETHYL PHOSPHATE_Unspecified_Health,$/kg,0.12
+Albania,Water Pollution,trichloroethylene,Freshwaster,Health,Water Pollution_trichloroethylene_Freshwaster_Health,$/kg,0.01
+Albania,Water Pollution,trichloroethylene,Seawater,Health,Water Pollution_trichloroethylene_Seawater_Health,$/kg,0.00
+Albania,Water Pollution,trichloroethylene,Unspecified,Health,Water Pollution_trichloroethylene_Unspecified_Health,$/kg,0.01
+Albania,Water Pollution,trifluralin,Freshwaster,Health,Water Pollution_trifluralin_Freshwaster_Health,$/kg,0.67
+Albania,Water Pollution,trifluralin,Seawater,Health,Water Pollution_trifluralin_Seawater_Health,$/kg,0.25
+Albania,Water Pollution,trifluralin,Unspecified,Health,Water Pollution_trifluralin_Unspecified_Health,$/kg,0.62
+Albania,Water Pollution,TRIMETHOPRIM,Freshwaster,Health,Water Pollution_TRIMETHOPRIM_Freshwaster_Health,$/kg,0.06
+Albania,Water Pollution,TRIMETHOPRIM,Seawater,Health,Water Pollution_TRIMETHOPRIM_Seawater_Health,$/kg,0.00
+Albania,Water Pollution,TRIMETHOPRIM,Unspecified,Health,Water Pollution_TRIMETHOPRIM_Unspecified_Health,$/kg,0.05
+Albania,Water Pollution,"Tris (2,3-dibromopropyl) phosphate",Freshwaster,Health,"Water Pollution_Tris (2,3-dibromopropyl) phosphate_Freshwaster_Health",$/kg,4.59
+Albania,Water Pollution,"Tris (2,3-dibromopropyl) phosphate",Seawater,Health,"Water Pollution_Tris (2,3-dibromopropyl) phosphate_Seawater_Health",$/kg,0.56
+Albania,Water Pollution,"Tris (2,3-dibromopropyl) phosphate",Unspecified,Health,"Water Pollution_Tris (2,3-dibromopropyl) phosphate_Unspecified_Health",$/kg,4.03
+Albania,Water Pollution,trrichloromethane/chloroform (CHCl3),Freshwaster,Health,Water Pollution_trrichloromethane/chloroform (CHCl3)_Freshwaster_Health,$/kg,0.14
+Albania,Water Pollution,trrichloromethane/chloroform (CHCl3),Seawater,Health,Water Pollution_trrichloromethane/chloroform (CHCl3)_Seawater_Health,$/kg,0.01
+Albania,Water Pollution,trrichloromethane/chloroform (CHCl3),Unspecified,Health,Water Pollution_trrichloromethane/chloroform (CHCl3)_Unspecified_Health,$/kg,0.12
+Albania,Water Pollution,Warfarin,Freshwaster,Health,Water Pollution_Warfarin_Freshwaster_Health,$/kg,6.92
+Albania,Water Pollution,Warfarin,Seawater,Health,Water Pollution_Warfarin_Seawater_Health,$/kg,0.00
+Albania,Water Pollution,Warfarin,Unspecified,Health,Water Pollution_Warfarin_Unspecified_Health,$/kg,5.97
+Albania,Water Pollution,PAHs,Freshwaster,Health,Water Pollution_PAHs_Freshwaster_Health,$/kg,344.73
+Albania,Water Pollution,PAHs,Seawater,Health,Water Pollution_PAHs_Seawater_Health,$/kg,36.61
+Albania,Water Pollution,PAHs,Unspecified,Health,Water Pollution_PAHs_Unspecified_Health,$/kg,302.28
+Albania,Water Pollution,Pesticides,Freshwaster,Health,Water Pollution_Pesticides_Freshwaster_Health,$/kg,0.49
+Albania,Water Pollution,Pesticides,Seawater,Health,Water Pollution_Pesticides_Seawater_Health,$/kg,0.09
+Albania,Water Pollution,Pesticides,Unspecified,Health,Water Pollution_Pesticides_Unspecified_Health,$/kg,0.43
+Albania,Water Pollution,Antimony,Freshwaster,Health,Water Pollution_Antimony_Freshwaster_Health,$/kg,73.41
+Albania,Water Pollution,Antimony,Seawater,Health,Water Pollution_Antimony_Seawater_Health,$/kg,1.76
+Albania,Water Pollution,Antimony,Unspecified,Health,Water Pollution_Antimony_Unspecified_Health,$/kg,63.54
+Albania,Water Pollution,Arsenic,Freshwaster,Health,Water Pollution_Arsenic_Freshwaster_Health,$/kg,"2,179.00"
+Albania,Water Pollution,Arsenic,Seawater,Health,Water Pollution_Arsenic_Seawater_Health,$/kg,172.79
+Albania,Water Pollution,Arsenic,Unspecified,Health,Water Pollution_Arsenic_Unspecified_Health,$/kg,"1,902.61"
+Albania,Water Pollution,Barium,Freshwaster,Health,Water Pollution_Barium_Freshwaster_Health,$/kg,36.17
+Albania,Water Pollution,Barium,Seawater,Health,Water Pollution_Barium_Seawater_Health,$/kg,13.01
+Albania,Water Pollution,Barium,Unspecified,Health,Water Pollution_Barium_Unspecified_Health,$/kg,32.98
+Albania,Water Pollution,Beryllium,Freshwaster,Health,Water Pollution_Beryllium_Freshwaster_Health,$/kg,0.06
+Albania,Water Pollution,Beryllium,Seawater,Health,Water Pollution_Beryllium_Seawater_Health,$/kg,0.00
+Albania,Water Pollution,Beryllium,Unspecified,Health,Water Pollution_Beryllium_Unspecified_Health,$/kg,0.05
+Albania,Water Pollution,Cadmium,Freshwaster,Health,Water Pollution_Cadmium_Freshwaster_Health,$/kg,323.50
+Albania,Water Pollution,Cadmium,Seawater,Health,Water Pollution_Cadmium_Seawater_Health,$/kg,46.92
+Albania,Water Pollution,Cadmium,Unspecified,Health,Water Pollution_Cadmium_Unspecified_Health,$/kg,285.40
+Albania,Water Pollution,Chromium,Freshwaster,Health,Water Pollution_Chromium_Freshwaster_Health,$/kg,696.27
+Albania,Water Pollution,Chromium,Seawater,Health,Water Pollution_Chromium_Seawater_Health,$/kg,15.51
+Albania,Water Pollution,Chromium,Unspecified,Health,Water Pollution_Chromium_Unspecified_Health,$/kg,602.49
+Albania,Water Pollution,Cobalt,Freshwaster,Health,Water Pollution_Cobalt_Freshwaster_Health,$/kg,0.00
+Albania,Water Pollution,Cobalt,Seawater,Health,Water Pollution_Cobalt_Seawater_Health,$/kg,0.00
+Albania,Water Pollution,Cobalt,Unspecified,Health,Water Pollution_Cobalt_Unspecified_Health,$/kg,0.00
+Albania,Water Pollution,Copper,Freshwaster,Health,Water Pollution_Copper_Freshwaster_Health,$/kg,0.01
+Albania,Water Pollution,Copper,Seawater,Health,Water Pollution_Copper_Seawater_Health,$/kg,0.00
+Albania,Water Pollution,Copper,Unspecified,Health,Water Pollution_Copper_Unspecified_Health,$/kg,0.01
+Albania,Water Pollution,Lead,Freshwaster,Health,Water Pollution_Lead_Freshwaster_Health,$/kg,1.26
+Albania,Water Pollution,Lead,Seawater,Health,Water Pollution_Lead_Seawater_Health,$/kg,0.05
+Albania,Water Pollution,Lead,Unspecified,Health,Water Pollution_Lead_Unspecified_Health,$/kg,1.09
+Albania,Water Pollution,Mercury,Freshwaster,Health,Water Pollution_Mercury_Freshwaster_Health,$/kg,239.46
+Albania,Water Pollution,Mercury,Seawater,Health,Water Pollution_Mercury_Seawater_Health,$/kg,100.06
+Albania,Water Pollution,Mercury,Unspecified,Health,Water Pollution_Mercury_Unspecified_Health,$/kg,220.25
+Albania,Water Pollution,Molybdenum,Freshwaster,Health,Water Pollution_Molybdenum_Freshwaster_Health,$/kg,23.35
+Albania,Water Pollution,Molybdenum,Seawater,Health,Water Pollution_Molybdenum_Seawater_Health,$/kg,0.08
+Albania,Water Pollution,Molybdenum,Unspecified,Health,Water Pollution_Molybdenum_Unspecified_Health,$/kg,20.14
+Albania,Water Pollution,Nickel,Freshwaster,Health,Water Pollution_Nickel_Freshwaster_Health,$/kg,101.08
+Albania,Water Pollution,Nickel,Seawater,Health,Water Pollution_Nickel_Seawater_Health,$/kg,4.85
+Albania,Water Pollution,Nickel,Unspecified,Health,Water Pollution_Nickel_Unspecified_Health,$/kg,87.82
+Albania,Water Pollution,Silver,Freshwaster,Health,Water Pollution_Silver_Freshwaster_Health,$/kg,131.02
+Albania,Water Pollution,Silver,Seawater,Health,Water Pollution_Silver_Seawater_Health,$/kg,0.97
+Albania,Water Pollution,Silver,Unspecified,Health,Water Pollution_Silver_Unspecified_Health,$/kg,113.10
+Albania,Water Pollution,Thallium,Freshwaster,Health,Water Pollution_Thallium_Freshwaster_Health,$/kg,92.42
+Albania,Water Pollution,Thallium,Seawater,Health,Water Pollution_Thallium_Seawater_Health,$/kg,5.25
+Albania,Water Pollution,Thallium,Unspecified,Health,Water Pollution_Thallium_Unspecified_Health,$/kg,80.41
+Albania,Water Pollution,Vanadium,Freshwaster,Health,Water Pollution_Vanadium_Freshwaster_Health,$/kg,17.02
+Albania,Water Pollution,Vanadium,Seawater,Health,Water Pollution_Vanadium_Seawater_Health,$/kg,1.26
+Albania,Water Pollution,Vanadium,Unspecified,Health,Water Pollution_Vanadium_Unspecified_Health,$/kg,14.85
+Albania,Water Pollution,Zinc,Freshwaster,Health,Water Pollution_Zinc_Freshwaster_Health,$/kg,3.51
+Albania,Water Pollution,Zinc,Seawater,Health,Water Pollution_Zinc_Seawater_Health,$/kg,2.43
+Albania,Water Pollution,Zinc,Unspecified,Health,Water Pollution_Zinc_Unspecified_Health,$/kg,3.36
+Albania,Water Pollution,"Analgesics, anesthetics & NSAIDs",Freshwaster,Health,"Water Pollution_Analgesics, anesthetics & NSAIDs_Freshwaster_Health",$/kg,1.99
+Albania,Water Pollution,"Analgesics, anesthetics & NSAIDs",Seawater,Health,"Water Pollution_Analgesics, anesthetics & NSAIDs_Seawater_Health",$/kg,0.03
+Albania,Water Pollution,"Analgesics, anesthetics & NSAIDs",Unspecified,Health,"Water Pollution_Analgesics, anesthetics & NSAIDs_Unspecified_Health",$/kg,1.72
+Albania,Water Pollution,Antibiotics,Seawater,Health,Water Pollution_Antibiotics_Seawater_Health,$/kg,0.00
+Albania,Water Pollution,Antibiotics,Unspecified,Health,Water Pollution_Antibiotics_Unspecified_Health,$/kg,0.08
+Albania,Water Pollution,Anticoagulants,Freshwaster,Health,Water Pollution_Anticoagulants_Freshwaster_Health,$/kg,6.92
+Albania,Water Pollution,Anticoagulants,Seawater,Health,Water Pollution_Anticoagulants_Seawater_Health,$/kg,0.00
+Albania,Water Pollution,Anticoagulants,Unspecified,Health,Water Pollution_Anticoagulants_Unspecified_Health,$/kg,5.97
+Albania,Water Pollution,Antihelminthics,Freshwaster,Health,Water Pollution_Antihelminthics_Freshwaster_Health,$/kg,0.02
+Albania,Water Pollution,Antihelminthics,Seawater,Health,Water Pollution_Antihelminthics_Seawater_Health,$/kg,0.00
+Albania,Water Pollution,Antihelminthics,Unspecified,Health,Water Pollution_Antihelminthics_Unspecified_Health,$/kg,0.02
+Albania,Water Pollution,Antihyperlipidemic agents,Freshwaster,Health,Water Pollution_Antihyperlipidemic agents_Freshwaster_Health,$/kg,0.05
+Albania,Water Pollution,Antihyperlipidemic agents,Seawater,Health,Water Pollution_Antihyperlipidemic agents_Seawater_Health,$/kg,0.00
+Albania,Water Pollution,Antihyperlipidemic agents,Unspecified,Health,Water Pollution_Antihyperlipidemic agents_Unspecified_Health,$/kg,0.05
+Albania,Water Pollution,Beta-agonists,Freshwaster,Health,Water Pollution_Beta-agonists_Freshwaster_Health,$/kg,0.07
+Albania,Water Pollution,Beta-agonists,Seawater,Health,Water Pollution_Beta-agonists_Seawater_Health,$/kg,0.00
+Albania,Water Pollution,Beta-agonists,Unspecified,Health,Water Pollution_Beta-agonists_Unspecified_Health,$/kg,0.06
+Albania,Water Pollution,Beta-blockers,Freshwaster,Health,Water Pollution_Beta-blockers_Freshwaster_Health,$/kg,0.01
+Albania,Water Pollution,Beta-blockers,Seawater,Health,Water Pollution_Beta-blockers_Seawater_Health,$/kg,0.00
+Albania,Water Pollution,Beta-blockers,Unspecified,Health,Water Pollution_Beta-blockers_Unspecified_Health,$/kg,0.01
+Albania,Water Pollution,Contrast agents,Freshwaster,Health,Water Pollution_Contrast agents_Freshwaster_Health,$/kg,0.01
+Albania,Water Pollution,Contrast agents,Seawater,Health,Water Pollution_Contrast agents_Seawater_Health,$/kg,0.00
+Albania,Water Pollution,Contrast agents,Unspecified,Health,Water Pollution_Contrast agents_Unspecified_Health,$/kg,0.00
+Albania,Water Pollution,Diuretics,Freshwaster,Health,Water Pollution_Diuretics_Freshwaster_Health,$/kg,0.03
+Albania,Water Pollution,Diuretics,Seawater,Health,Water Pollution_Diuretics_Seawater_Health,$/kg,0.00
+Albania,Water Pollution,Diuretics,Unspecified,Health,Water Pollution_Diuretics_Unspecified_Health,$/kg,0.03
+Albania,Water Pollution,Psychiatric drugs,Freshwaster,Health,Water Pollution_Psychiatric drugs_Freshwaster_Health,$/kg,0.04
+Albania,Water Pollution,Psychiatric drugs,Seawater,Health,Water Pollution_Psychiatric drugs_Seawater_Health,$/kg,0.00
